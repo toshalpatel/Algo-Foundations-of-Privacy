@@ -1,0 +1,1032 @@
+23:25:10.834732 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [S], seq 3536336526, win 29200, options [mss 1460,sackOK,TS val 2508685630 ecr 0,nop,wscale 7], length 0
+23:25:10.837079 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1510360991, win 229, options [nop,nop,TS val 2508685632 ecr 100741101], length 0
+23:25:10.837334 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 0:517, ack 1, win 229, options [nop,nop,TS val 2508685633 ecr 100741101], length 517
+23:25:10.840302 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 157, win 237, options [nop,nop,TS val 2508685636 ecr 100741104], length 0
+23:25:10.840498 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 517:568, ack 157, win 237, options [nop,nop,TS val 2508685636 ecr 100741104], length 51
+23:25:10.840680 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 568:745, ack 157, win 237, options [nop,nop,TS val 2508685636 ecr 100741104], length 177
+23:25:10.840701 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 745:1297, ack 157, win 237, options [nop,nop,TS val 2508685636 ecr 100741104], length 552
+23:25:10.846585 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 1297:1335, ack 264, win 237, options [nop,nop,TS val 2508685642 ecr 100741107], length 38
+23:25:11.452368 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 832, win 245, options [nop,nop,TS val 2508686248 ecr 100741704], length 0
+23:25:11.452534 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 1335:1381, ack 878, win 245, options [nop,nop,TS val 2508686248 ecr 100741716], length 46
+23:25:14.116974 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 1381:2361, ack 878, win 245, options [nop,nop,TS val 2508688912 ecr 100741719], length 980
+23:25:14.150653 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2540, win 275, options [nop,nop,TS val 2508688946 ecr 100744414], length 0
+23:25:14.150855 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 2361:2407, ack 2586, win 275, options [nop,nop,TS val 2508688946 ecr 100744415], length 46
+23:25:14.152476 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 2407:2996, ack 2586, win 275, options [nop,nop,TS val 2508688948 ecr 100744415], length 589
+23:25:14.393983 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 3215, win 305, options [nop,nop,TS val 2508689189 ecr 100744658], length 0
+23:25:14.394007 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 2996:3042, ack 3215, win 305, options [nop,nop,TS val 2508689189 ecr 100744658], length 46
+23:25:14.395693 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 3042:3126, ack 3215, win 305, options [nop,nop,TS val 2508689191 ecr 100744658], length 84
+23:25:14.645014 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 5654, win 349, options [nop,nop,TS val 2508689440 ecr 100744909], length 0
+23:25:14.645272 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 6148, win 370, options [nop,nop,TS val 2508689440 ecr 100744909], length 0
+23:25:14.645302 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 3126:3172, ack 6148, win 370, options [nop,nop,TS val 2508689441 ecr 100744909], length 46
+23:25:14.647095 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 3172:3398, ack 6148, win 370, options [nop,nop,TS val 2508689442 ecr 100744909], length 226
+23:25:15.276577 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 8065, win 414, options [nop,nop,TS val 2508690072 ecr 100745540], length 0
+23:25:15.276624 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 10971, win 461, options [nop,nop,TS val 2508690072 ecr 100745540], length 0
+23:25:15.288870 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 13707, win 506, options [nop,nop,TS val 2508690084 ecr 100745553], length 0
+23:25:15.288880 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 15275, win 530, options [nop,nop,TS val 2508690084 ecr 100745553], length 0
+23:25:15.289252 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 19379, win 596, options [nop,nop,TS val 2508690085 ecr 100745553], length 0
+23:25:15.289596 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 19884, win 639, options [nop,nop,TS val 2508690085 ecr 100745553], length 0
+23:25:15.343840 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 22620, win 684, options [nop,nop,TS val 2508690139 ecr 100745608], length 0
+23:25:15.343847 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 24221, win 709, options [nop,nop,TS val 2508690139 ecr 100745608], length 0
+23:25:15.344066 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 28325, win 774, options [nop,nop,TS val 2508690139 ecr 100745608], length 0
+23:25:15.344625 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 30035, win 818, options [nop,nop,TS val 2508690140 ecr 100745608], length 0
+23:25:15.344632 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 32771, win 861, options [nop,nop,TS val 2508690140 ecr 100745608], length 0
+23:25:15.345429 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 34309, win 905, options [nop,nop,TS val 2508690141 ecr 100745609], length 0
+23:25:15.345438 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 37045, win 948, options [nop,nop,TS val 2508690141 ecr 100745609], length 0
+23:25:15.362620 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 38634, win 992, options [nop,nop,TS val 2508690158 ecr 100745609], length 0
+23:25:15.362631 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 41370, win 1034, options [nop,nop,TS val 2508690158 ecr 100745627], length 0
+23:25:15.362860 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 42993, win 1078, options [nop,nop,TS val 2508690158 ecr 100745627], length 0
+23:25:15.362869 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 45729, win 1121, options [nop,nop,TS val 2508690158 ecr 100745627], length 0
+23:25:15.363402 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 47316, win 1165, options [nop,nop,TS val 2508690159 ecr 100745627], length 0
+23:25:15.363411 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 50052, win 1208, options [nop,nop,TS val 2508690159 ecr 100745627], length 0
+23:25:15.364072 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 51587, win 1252, options [nop,nop,TS val 2508690159 ecr 100745627], length 0
+23:25:15.364092 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 54323, win 1295, options [nop,nop,TS val 2508690159 ecr 100745628], length 0
+23:25:15.405407 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 54672, win 1316, options [nop,nop,TS val 2508690159 ecr 100745628], length 0
+23:25:15.408398 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 56040, win 1339, options [nop,nop,TS val 2508690204 ecr 100745672], length 0
+23:25:15.408408 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 57408, win 1361, options [nop,nop,TS val 2508690204 ecr 100745672], length 0
+23:25:15.408657 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 61512, win 1425, options [nop,nop,TS val 2508690204 ecr 100745672], length 0
+23:25:15.408668 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 63317, win 1417, options [nop,nop,TS val 2508690204 ecr 100745672], length 0
+23:25:15.408788 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 64685, win 1444, options [nop,nop,TS val 2508690204 ecr 100745673], length 0
+23:25:15.408795 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 67421, win 1432, options [nop,nop,TS val 2508690204 ecr 100745673], length 0
+23:25:15.408802 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 67700, win 1430, options [nop,nop,TS val 2508690204 ecr 100745673], length 0
+23:25:15.409594 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 69068, win 1444, options [nop,nop,TS val 2508690205 ecr 100745673], length 0
+23:25:15.409603 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 71472, win 1432, options [nop,nop,TS val 2508690205 ecr 100745673], length 0
+23:25:15.501595 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 72217, win 1444, options [nop,nop,TS val 2508690297 ecr 100745766], length 0
+23:25:15.502035 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 73585, win 1444, options [nop,nop,TS val 2508690297 ecr 100745766], length 0
+23:25:15.502044 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 76321, win 1432, options [nop,nop,TS val 2508690297 ecr 100745766], length 0
+23:25:15.502050 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 76548, win 1431, options [nop,nop,TS val 2508690297 ecr 100745766], length 0
+23:25:15.502862 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 77916, win 1444, options [nop,nop,TS val 2508690298 ecr 100745766], length 0
+23:25:15.502888 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 80652, win 1432, options [nop,nop,TS val 2508690298 ecr 100745766], length 0
+23:25:15.502897 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 80837, win 1431, options [nop,nop,TS val 2508690298 ecr 100745766], length 0
+23:25:15.503423 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 82205, win 1444, options [nop,nop,TS val 2508690299 ecr 100745767], length 0
+23:25:15.503430 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 84941, win 1432, options [nop,nop,TS val 2508690299 ecr 100745767], length 0
+23:25:15.503434 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 85148, win 1431, options [nop,nop,TS val 2508690299 ecr 100745767], length 0
+23:25:15.503629 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 87884, win 1439, options [nop,nop,TS val 2508690299 ecr 100745767], length 0
+23:25:15.503839 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 88502, win 1444, options [nop,nop,TS val 2508690299 ecr 100745767], length 0
+23:25:15.509399 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 3398:3758, ack 88502, win 1444, options [nop,nop,TS val 2508690305 ecr 100745767], length 360
+23:25:15.509807 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 3758:3907, ack 88502, win 1444, options [nop,nop,TS val 2508690305 ecr 100745767], length 149
+23:25:15.512624 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 90914, win 1439, options [nop,nop,TS val 2508690308 ecr 100745777], length 0
+23:25:15.512989 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 3907:3953, ack 90960, win 1444, options [nop,nop,TS val 2508690308 ecr 100745777], length 46
+23:25:15.513390 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 92504, win 1444, options [nop,nop,TS val 2508690309 ecr 100745777], length 0
+23:25:15.513600 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 97976, win 1432, options [nop,nop,TS val 2508690309 ecr 100745777], length 0
+23:25:15.513653 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 104816, win 1394, options [nop,nop,TS val 2508690309 ecr 100745777], length 0
+23:25:15.513696 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 110288, win 1364, options [nop,nop,TS val 2508690309 ecr 100745777], length 0
+23:25:15.514238 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 115760, win 1424, options [nop,nop,TS val 2508690310 ecr 100745777], length 0
+23:25:15.514290 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 119864, win 1402, options [nop,nop,TS val 2508690310 ecr 100745777], length 0
+23:25:15.514348 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 126704, win 1364, options [nop,nop,TS val 2508690310 ecr 100745777], length 0
+23:25:15.515016 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 129440, win 1444, options [nop,nop,TS val 2508690310 ecr 100745777], length 0
+23:25:15.515432 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 133544, win 1432, options [nop,nop,TS val 2508690311 ecr 100745778], length 0
+23:25:15.515475 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 139016, win 1444, options [nop,nop,TS val 2508690311 ecr 100745778], length 0
+23:25:15.515851 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 144488, win 1531, options [nop,nop,TS val 2508690311 ecr 100745779], length 0
+23:25:15.516397 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 148592, win 1595, options [nop,nop,TS val 2508690312 ecr 100745780], length 0
+23:25:15.516444 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 154064, win 1681, options [nop,nop,TS val 2508690312 ecr 100745780], length 0
+23:25:15.516494 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 160904, win 1787, options [nop,nop,TS val 2508690312 ecr 100745780], length 0
+23:25:15.517421 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 166376, win 1874, options [nop,nop,TS val 2508690313 ecr 100745780], length 0
+23:25:15.517432 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 169112, win 1917, options [nop,nop,TS val 2508690313 ecr 100745781], length 0
+23:25:15.517463 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 171848, win 1960, options [nop,nop,TS val 2508690313 ecr 100745781], length 0
+23:25:15.517511 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 178688, win 2067, options [nop,nop,TS val 2508690313 ecr 100745781], length 0
+23:25:15.518234 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 184160, win 2153, options [nop,nop,TS val 2508690314 ecr 100745781], length 0
+23:25:15.518284 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 189632, win 2231, options [nop,nop,TS val 2508690314 ecr 100745781], length 0
+23:25:15.518340 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 196472, win 2193, options [nop,nop,TS val 2508690314 ecr 100745781], length 0
+23:25:15.518392 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 200576, win 2171, options [nop,nop,TS val 2508690314 ecr 100745781], length 0
+23:25:15.519426 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 206048, win 2238, options [nop,nop,TS val 2508690315 ecr 100745781], length 0
+23:25:15.519487 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 210152, win 2231, options [nop,nop,TS val 2508690315 ecr 100745782], length 0
+23:25:15.519535 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 216992, win 2193, options [nop,nop,TS val 2508690315 ecr 100745782], length 0
+23:25:15.519575 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 221096, win 2171, options [nop,nop,TS val 2508690315 ecr 100745783], length 0
+23:25:15.520391 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 225200, win 2238, options [nop,nop,TS val 2508690316 ecr 100745783], length 0
+23:25:15.520440 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 230672, win 2323, options [nop,nop,TS val 2508690316 ecr 100745783], length 0
+23:25:15.520491 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 237512, win 2430, options [nop,nop,TS val 2508690316 ecr 100745783], length 0
+23:25:15.520538 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 240248, win 2473, options [nop,nop,TS val 2508690316 ecr 100745783], length 0
+23:25:15.521376 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 244352, win 2537, options [nop,nop,TS val 2508690317 ecr 100745783], length 0
+23:25:15.521431 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 249824, win 2623, options [nop,nop,TS val 2508690317 ecr 100745783], length 0
+23:25:15.521472 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 256664, win 2730, options [nop,nop,TS val 2508690317 ecr 100745783], length 0
+23:25:15.521523 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 259400, win 2772, options [nop,nop,TS val 2508690317 ecr 100745783], length 0
+23:25:15.522240 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 263504, win 2836, options [nop,nop,TS val 2508690318 ecr 100745783], length 0
+23:25:15.522286 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 266240, win 2879, options [nop,nop,TS val 2508690318 ecr 100745783], length 0
+23:25:15.522296 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 270344, win 2943, options [nop,nop,TS val 2508690318 ecr 100745784], length 0
+23:25:15.522338 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 275816, win 3029, options [nop,nop,TS val 2508690318 ecr 100745784], length 0
+23:25:15.522389 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 279920, win 3093, options [nop,nop,TS val 2508690318 ecr 100745784], length 0
+23:25:15.523229 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 284024, win 3157, options [nop,nop,TS val 2508690319 ecr 100745784], length 0
+23:25:15.523279 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 289496, win 3184, options [nop,nop,TS val 2508690319 ecr 100745784], length 0
+23:25:15.523339 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 296336, win 3167, options [nop,nop,TS val 2508690319 ecr 100745784], length 0
+23:25:15.523391 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 299072, win 3152, options [nop,nop,TS val 2508690319 ecr 100745784], length 0
+23:25:15.524396 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 303176, win 3184, options [nop,nop,TS val 2508690320 ecr 100745784], length 0
+23:25:15.524442 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 308648, win 3184, options [nop,nop,TS val 2508690320 ecr 100745784], length 0
+23:25:15.524499 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 315488, win 3167, options [nop,nop,TS val 2508690320 ecr 100745784], length 0
+23:25:15.524552 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 319592, win 3145, options [nop,nop,TS val 2508690320 ecr 100745784], length 0
+23:25:15.525440 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 323696, win 3184, options [nop,nop,TS val 2508690321 ecr 100745784], length 0
+23:25:15.525485 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 326432, win 3184, options [nop,nop,TS val 2508690321 ecr 100745784], length 0
+23:25:15.525493 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 330536, win 3184, options [nop,nop,TS val 2508690321 ecr 100745785], length 0
+23:25:15.525578 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 336008, win 3167, options [nop,nop,TS val 2508690321 ecr 100745786], length 0
+23:25:15.525593 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 338744, win 3152, options [nop,nop,TS val 2508690321 ecr 100745786], length 0
+23:25:15.526227 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 342848, win 3184, options [nop,nop,TS val 2508690322 ecr 100745786], length 0
+23:25:15.526276 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 348320, win 3184, options [nop,nop,TS val 2508690322 ecr 100745786], length 0
+23:25:15.526335 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 355160, win 3167, options [nop,nop,TS val 2508690322 ecr 100745786], length 0
+23:25:15.526379 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 359264, win 3145, options [nop,nop,TS val 2508690322 ecr 100745786], length 0
+23:25:15.527408 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 363368, win 3184, options [nop,nop,TS val 2508690323 ecr 100745787], length 0
+23:25:15.527456 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 368840, win 3269, options [nop,nop,TS val 2508690323 ecr 100745787], length 0
+23:25:15.527504 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 375680, win 3376, options [nop,nop,TS val 2508690323 ecr 100745787], length 0
+23:25:15.527552 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 378416, win 3419, options [nop,nop,TS val 2508690323 ecr 100745787], length 0
+23:25:15.528401 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 382520, win 3483, options [nop,nop,TS val 2508690324 ecr 100745787], length 0
+23:25:15.528452 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 389360, win 3590, options [nop,nop,TS val 2508690324 ecr 100745787], length 0
+23:25:15.528497 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 394832, win 3675, options [nop,nop,TS val 2508690324 ecr 100745787], length 0
+23:25:15.528543 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 397568, win 3718, options [nop,nop,TS val 2508690324 ecr 100745788], length 0
+23:25:15.529427 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 403040, win 3803, options [nop,nop,TS val 2508690325 ecr 100745788], length 0
+23:25:15.529466 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 407144, win 3868, options [nop,nop,TS val 2508690325 ecr 100745788], length 0
+23:25:15.529516 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 413984, win 3974, options [nop,nop,TS val 2508690325 ecr 100745788], length 0
+23:25:15.529563 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 418088, win 4039, options [nop,nop,TS val 2508690325 ecr 100745788], length 0
+23:25:15.530219 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 422192, win 4103, options [nop,nop,TS val 2508690326 ecr 100745788], length 0
+23:25:15.530269 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 427664, win 4188, options [nop,nop,TS val 2508690326 ecr 100745788], length 0
+23:25:15.530320 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 434504, win 4295, options [nop,nop,TS val 2508690326 ecr 100745788], length 0
+23:25:15.530369 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 437240, win 4340, options [nop,nop,TS val 2508690326 ecr 100745788], length 0
+23:25:15.531403 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 441344, win 4404, options [nop,nop,TS val 2508690327 ecr 100745788], length 0
+23:25:15.531451 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 446816, win 4490, options [nop,nop,TS val 2508690327 ecr 100745788], length 0
+23:25:15.531505 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 453656, win 4597, options [nop,nop,TS val 2508690327 ecr 100745788], length 0
+23:25:15.531552 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 457760, win 4661, options [nop,nop,TS val 2508690327 ecr 100745788], length 0
+23:25:15.532389 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 461864, win 4701, options [nop,nop,TS val 2508690328 ecr 100745788], length 0
+23:25:15.532438 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 468704, win 4701, options [nop,nop,TS val 2508690328 ecr 100745789], length 0
+23:25:15.532486 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 474176, win 4701, options [nop,nop,TS val 2508690328 ecr 100745790], length 0
+23:25:15.532537 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 476912, win 4701, options [nop,nop,TS val 2508690328 ecr 100745790], length 0
+23:25:15.533367 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 481016, win 4701, options [nop,nop,TS val 2508690329 ecr 100745790], length 0
+23:25:15.533417 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 486488, win 4701, options [nop,nop,TS val 2508690329 ecr 100745790], length 0
+23:25:15.533465 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 493328, win 4701, options [nop,nop,TS val 2508690329 ecr 100745790], length 0
+23:25:15.533526 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 497432, win 4698, options [nop,nop,TS val 2508690329 ecr 100745791], length 0
+23:25:15.534236 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 500168, win 4701, options [nop,nop,TS val 2508690330 ecr 100745791], length 0
+23:25:15.534245 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 504272, win 4701, options [nop,nop,TS val 2508690330 ecr 100745792], length 0
+23:25:15.534269 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 507008, win 4701, options [nop,nop,TS val 2508690330 ecr 100745792], length 0
+23:25:15.534321 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 513848, win 4701, options [nop,nop,TS val 2508690330 ecr 100745792], length 0
+23:25:15.535400 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 519320, win 4701, options [nop,nop,TS val 2508690331 ecr 100745792], length 0
+23:25:15.535447 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 523424, win 4701, options [nop,nop,TS val 2508690331 ecr 100745792], length 0
+23:25:15.535453 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 526160, win 4701, options [nop,nop,TS val 2508690331 ecr 100745793], length 0
+23:25:15.535496 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 530264, win 4701, options [nop,nop,TS val 2508690331 ecr 100745793], length 0
+23:25:15.535548 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 535736, win 4701, options [nop,nop,TS val 2508690331 ecr 100745793], length 0
+23:25:15.536237 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 542576, win 4701, options [nop,nop,TS val 2508690332 ecr 100745793], length 0
+23:25:15.536268 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 545312, win 4701, options [nop,nop,TS val 2508690332 ecr 100745793], length 0
+23:25:15.536319 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 552152, win 4701, options [nop,nop,TS val 2508690332 ecr 100745793], length 0
+23:25:15.536365 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 554888, win 4701, options [nop,nop,TS val 2508690332 ecr 100745794], length 0
+23:25:15.537259 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 560360, win 4701, options [nop,nop,TS val 2508690333 ecr 100745794], length 0
+23:25:15.537293 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 564464, win 4744, options [nop,nop,TS val 2508690333 ecr 100745795], length 0
+23:25:15.537342 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 571304, win 4840, options [nop,nop,TS val 2508690333 ecr 100745795], length 0
+23:25:15.537390 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 574040, win 4840, options [nop,nop,TS val 2508690333 ecr 100745795], length 0
+23:25:15.538274 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 580880, win 4840, options [nop,nop,TS val 2508690334 ecr 100745795], length 0
+23:25:15.538298 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 583616, win 4840, options [nop,nop,TS val 2508690334 ecr 100745795], length 0
+23:25:15.538347 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 587720, win 4840, options [nop,nop,TS val 2508690334 ecr 100745795], length 0
+23:25:15.538356 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 590456, win 4840, options [nop,nop,TS val 2508690334 ecr 100745796], length 0
+23:25:15.538396 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 593192, win 4840, options [nop,nop,TS val 2508690334 ecr 100745796], length 0
+23:25:15.539252 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 597296, win 4840, options [nop,nop,TS val 2508690335 ecr 100745796], length 0
+23:25:15.539300 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 600032, win 4840, options [nop,nop,TS val 2508690335 ecr 100745796], length 0
+23:25:15.539310 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 604136, win 4840, options [nop,nop,TS val 2508690335 ecr 100745797], length 0
+23:25:15.539355 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 609608, win 4840, options [nop,nop,TS val 2508690335 ecr 100745797], length 0
+23:25:15.539406 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 615080, win 4830, options [nop,nop,TS val 2508690335 ecr 100745797], length 0
+23:25:15.539457 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 620552, win 4799, options [nop,nop,TS val 2508690335 ecr 100745797], length 0
+23:25:15.539508 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 626024, win 4769, options [nop,nop,TS val 2508690335 ecr 100745797], length 0
+23:25:15.539577 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 632864, win 4732, options [nop,nop,TS val 2508690335 ecr 100745797], length 0
+23:25:15.539616 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 638336, win 4702, options [nop,nop,TS val 2508690335 ecr 100745798], length 0
+23:25:15.539651 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 642440, win 4799, options [nop,nop,TS val 2508690335 ecr 100745798], length 0
+23:25:15.540376 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 646544, win 4840, options [nop,nop,TS val 2508690336 ecr 100745798], length 0
+23:25:15.540426 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 652016, win 4840, options [nop,nop,TS val 2508690336 ecr 100745798], length 0
+23:25:15.540478 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 658856, win 4840, options [nop,nop,TS val 2508690336 ecr 100745799], length 0
+23:25:15.540539 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 664328, win 4830, options [nop,nop,TS val 2508690336 ecr 100745800], length 0
+23:25:15.541364 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 668432, win 4840, options [nop,nop,TS val 2508690337 ecr 100745800], length 0
+23:25:15.541414 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 673904, win 4840, options [nop,nop,TS val 2508690337 ecr 100745800], length 0
+23:25:15.541461 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 678008, win 4840, options [nop,nop,TS val 2508690337 ecr 100745800], length 0
+23:25:15.541471 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 680744, win 4840, options [nop,nop,TS val 2508690337 ecr 100745801], length 0
+23:25:15.541520 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 686216, win 4830, options [nop,nop,TS val 2508690337 ecr 100745801], length 0
+23:25:15.541568 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 688952, win 4815, options [nop,nop,TS val 2508690337 ecr 100745801], length 0
+23:25:15.542226 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 693056, win 4840, options [nop,nop,TS val 2508690338 ecr 100745801], length 0
+23:25:15.542277 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 698528, win 4840, options [nop,nop,TS val 2508690338 ecr 100745801], length 0
+23:25:15.542327 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 705368, win 4840, options [nop,nop,TS val 2508690338 ecr 100745801], length 0
+23:25:15.542393 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 710840, win 4830, options [nop,nop,TS val 2508690338 ecr 100745801], length 0
+23:25:15.543399 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 714944, win 4840, options [nop,nop,TS val 2508690339 ecr 100745802], length 0
+23:25:15.543446 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 717575, win 4840, options [nop,nop,TS val 2508690339 ecr 100745802], length 0
+23:25:15.543621 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 3953:3999, ack 717575, win 4840, options [nop,nop,TS val 2508690339 ecr 100745802], length 46
+23:25:15.568928 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 3999:4510, ack 717575, win 4840, options [nop,nop,TS val 2508690364 ecr 100745802], length 511
+23:25:15.833209 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 719092, win 4840, options [nop,nop,TS val 2508690629 ecr 100746097], length 0
+23:25:15.833222 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 723196, win 4840, options [nop,nop,TS val 2508690629 ecr 100746097], length 0
+23:25:15.833253 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 725932, win 4840, options [nop,nop,TS val 2508690629 ecr 100746097], length 0
+23:25:15.833420 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 730036, win 4840, options [nop,nop,TS val 2508690629 ecr 100746097], length 0
+23:25:15.833455 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 733773, win 4840, options [nop,nop,TS val 2508690629 ecr 100746097], length 0
+23:25:15.833474 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 737877, win 4838, options [nop,nop,TS val 2508690629 ecr 100746097], length 0
+23:25:15.833607 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 741981, win 4815, options [nop,nop,TS val 2508690629 ecr 100746097], length 0
+23:25:15.833843 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 747453, win 4840, options [nop,nop,TS val 2508690629 ecr 100746097], length 0
+23:25:15.833890 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 750189, win 4840, options [nop,nop,TS val 2508690629 ecr 100746097], length 0
+23:25:15.834585 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 754293, win 4840, options [nop,nop,TS val 2508690630 ecr 100746097], length 0
+23:25:15.834634 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 761133, win 4840, options [nop,nop,TS val 2508690630 ecr 100746097], length 0
+23:25:15.834683 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 767284, win 4840, options [nop,nop,TS val 2508690630 ecr 100746097], length 0
+23:25:15.834738 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 772756, win 4823, options [nop,nop,TS val 2508690630 ecr 100746098], length 0
+23:25:15.835366 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 776860, win 4840, options [nop,nop,TS val 2508690631 ecr 100746098], length 0
+23:25:15.835415 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 782332, win 4840, options [nop,nop,TS val 2508690631 ecr 100746098], length 0
+23:25:15.835463 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 789172, win 4840, options [nop,nop,TS val 2508690631 ecr 100746098], length 0
+23:25:15.835521 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 793276, win 4838, options [nop,nop,TS val 2508690631 ecr 100746098], length 0
+23:25:15.836422 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 797380, win 4840, options [nop,nop,TS val 2508690632 ecr 100746098], length 0
+23:25:15.836471 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 802852, win 4840, options [nop,nop,TS val 2508690632 ecr 100746098], length 0
+23:25:15.836520 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 809692, win 4840, options [nop,nop,TS val 2508690632 ecr 100746098], length 0
+23:25:15.836592 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 815843, win 4823, options [nop,nop,TS val 2508690632 ecr 100746098], length 0
+23:25:15.836630 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 817553, win 4810, options [nop,nop,TS val 2508690632 ecr 100746098], length 0
+23:25:15.837408 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 821657, win 4840, options [nop,nop,TS val 2508690633 ecr 100746098], length 0
+23:25:15.837456 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 827129, win 4840, options [nop,nop,TS val 2508690633 ecr 100746098], length 0
+23:25:15.837505 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 833969, win 4840, options [nop,nop,TS val 2508690633 ecr 100746098], length 0
+23:25:15.837570 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 839441, win 4830, options [nop,nop,TS val 2508690633 ecr 100746098], length 0
+23:25:15.837614 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 842177, win 4815, options [nop,nop,TS val 2508690633 ecr 100746098], length 0
+23:25:15.838378 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 846281, win 4840, options [nop,nop,TS val 2508690634 ecr 100746098], length 0
+23:25:15.838426 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 851064, win 4840, options [nop,nop,TS val 2508690634 ecr 100746098], length 0
+23:25:15.838434 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 853800, win 4840, options [nop,nop,TS val 2508690634 ecr 100746098], length 0
+23:25:15.838476 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 857904, win 4840, options [nop,nop,TS val 2508690634 ecr 100746098], length 0
+23:25:15.838525 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 860640, win 4840, options [nop,nop,TS val 2508690634 ecr 100746098], length 0
+23:25:15.839435 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 861515, win 4840, options [nop,nop,TS val 2508690635 ecr 100746098], length 0
+23:25:15.839496 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 4510:4556, ack 861515, win 4840, options [nop,nop,TS val 2508690635 ecr 100746098], length 46
+23:25:15.865003 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 4556:4858, ack 861515, win 4840, options [nop,nop,TS val 2508690660 ecr 100746098], length 302
+23:25:15.979039 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 4858:5090, ack 861515, win 4840, options [nop,nop,TS val 2508690774 ecr 100746131], length 232
+23:25:15.997829 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 862989, win 4840, options [nop,nop,TS val 2508690793 ecr 100746262], length 0
+23:25:15.998011 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 865344, win 4840, options [nop,nop,TS val 2508690793 ecr 100746262], length 0
+23:25:15.998247 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 5090:5136, ack 865390, win 4840, options [nop,nop,TS val 2508690794 ecr 100746262], length 46
+23:25:16.136508 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 866843, win 4840, options [nop,nop,TS val 2508690932 ecr 100746400], length 0
+23:25:16.136524 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 870947, win 4840, options [nop,nop,TS val 2508690932 ecr 100746400], length 0
+23:25:16.136553 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 875051, win 4840, options [nop,nop,TS val 2508690932 ecr 100746400], length 0
+23:25:16.136603 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 880523, win 4840, options [nop,nop,TS val 2508690932 ecr 100746400], length 0
+23:25:16.136665 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 887363, win 4830, options [nop,nop,TS val 2508690932 ecr 100746400], length 0
+23:25:16.136716 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 892835, win 4799, options [nop,nop,TS val 2508690932 ecr 100746400], length 0
+23:25:16.137222 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 896939, win 4840, options [nop,nop,TS val 2508690933 ecr 100746400], length 0
+23:25:16.137270 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 899635, win 4840, options [nop,nop,TS val 2508690933 ecr 100746400], length 0
+23:25:16.137277 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 902371, win 4840, options [nop,nop,TS val 2508690933 ecr 100746400], length 0
+23:25:16.137285 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 905107, win 4840, options [nop,nop,TS val 2508690933 ecr 100746400], length 0
+23:25:16.137319 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 907843, win 4840, options [nop,nop,TS val 2508690933 ecr 100746400], length 0
+23:25:16.137389 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 914683, win 4830, options [nop,nop,TS val 2508690933 ecr 100746401], length 0
+23:25:16.137456 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 920509, win 4792, options [nop,nop,TS val 2508690933 ecr 100746401], length 0
+23:25:16.138412 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 924613, win 4840, options [nop,nop,TS val 2508690934 ecr 100746401], length 0
+23:25:16.138460 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 930085, win 4840, options [nop,nop,TS val 2508690934 ecr 100746401], length 0
+23:25:16.138512 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 936925, win 4840, options [nop,nop,TS val 2508690934 ecr 100746401], length 0
+23:25:16.138576 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 942397, win 4830, options [nop,nop,TS val 2508690934 ecr 100746401], length 0
+23:25:16.138626 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 948536, win 4792, options [nop,nop,TS val 2508690934 ecr 100746401], length 0
+23:25:16.139611 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 954008, win 4840, options [nop,nop,TS val 2508690935 ecr 100746401], length 0
+23:25:16.139661 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 959480, win 4840, options [nop,nop,TS val 2508690935 ecr 100746401], length 0
+23:25:16.139708 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 964952, win 4840, options [nop,nop,TS val 2508690935 ecr 100746401], length 0
+23:25:16.139775 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 971792, win 4823, options [nop,nop,TS val 2508690935 ecr 100746401], length 0
+23:25:16.139820 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 975896, win 4799, options [nop,nop,TS val 2508690935 ecr 100746401], length 0
+23:25:16.140359 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 978632, win 4840, options [nop,nop,TS val 2508690936 ecr 100746401], length 0
+23:25:16.140410 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 985472, win 4840, options [nop,nop,TS val 2508690936 ecr 100746401], length 0
+23:25:16.140459 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 990944, win 4840, options [nop,nop,TS val 2508690936 ecr 100746401], length 0
+23:25:16.140505 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 992991, win 4840, options [nop,nop,TS val 2508690936 ecr 100746401], length 0
+23:25:16.140537 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 997095, win 4830, options [nop,nop,TS val 2508690936 ecr 100746401], length 0
+23:25:16.140563 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1002567, win 4799, options [nop,nop,TS val 2508690936 ecr 100746401], length 0
+23:25:16.141211 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1008039, win 4840, options [nop,nop,TS val 2508690937 ecr 100746401], length 0
+23:25:16.141382 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1009205, win 4840, options [nop,nop,TS val 2508690937 ecr 100746401], length 0
+23:25:16.141425 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 5136:5182, ack 1009205, win 4840, options [nop,nop,TS val 2508690937 ecr 100746401], length 46
+23:25:16.280838 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1011941, win 4840, options [nop,nop,TS val 2508691076 ecr 100746544], length 0
+23:25:16.280848 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1013565, win 4840, options [nop,nop,TS val 2508691076 ecr 100746544], length 0
+23:25:16.284040 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1016301, win 4840, options [nop,nop,TS val 2508691079 ecr 100746548], length 0
+23:25:16.284048 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1017998, win 4840, options [nop,nop,TS val 2508691079 ecr 100746548], length 0
+23:25:16.284422 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1022102, win 4840, options [nop,nop,TS val 2508691080 ecr 100746548], length 0
+23:25:16.284797 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1022392, win 4840, options [nop,nop,TS val 2508691080 ecr 100746548], length 0
+23:25:16.294194 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1025128, win 4840, options [nop,nop,TS val 2508691090 ecr 100746558], length 0
+23:25:16.294220 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1026809, win 4840, options [nop,nop,TS val 2508691090 ecr 100746558], length 0
+23:25:16.294391 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1030913, win 4840, options [nop,nop,TS val 2508691090 ecr 100746558], length 0
+23:25:16.294995 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1032651, win 4840, options [nop,nop,TS val 2508691090 ecr 100746558], length 0
+23:25:16.295006 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1035387, win 4840, options [nop,nop,TS val 2508691090 ecr 100746559], length 0
+23:25:16.295559 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1037107, win 4840, options [nop,nop,TS val 2508691091 ecr 100746559], length 0
+23:25:16.295569 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1039843, win 4840, options [nop,nop,TS val 2508691091 ecr 100746559], length 0
+23:25:16.304430 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1041492, win 4840, options [nop,nop,TS val 2508691100 ecr 100746559], length 0
+23:25:16.304442 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1044228, win 4840, options [nop,nop,TS val 2508691100 ecr 100746568], length 0
+23:25:16.304599 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1045716, win 4840, options [nop,nop,TS val 2508691100 ecr 100746568], length 0
+23:25:16.304606 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1048452, win 4840, options [nop,nop,TS val 2508691100 ecr 100746569], length 0
+23:25:16.305386 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1050047, win 4840, options [nop,nop,TS val 2508691101 ecr 100746569], length 0
+23:25:16.305395 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1052783, win 4840, options [nop,nop,TS val 2508691101 ecr 100746569], length 0
+23:25:16.305812 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1054437, win 4840, options [nop,nop,TS val 2508691101 ecr 100746569], length 0
+23:25:16.305822 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1057173, win 4840, options [nop,nop,TS val 2508691101 ecr 100746570], length 0
+23:25:16.308609 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1058754, win 4840, options [nop,nop,TS val 2508691104 ecr 100746570], length 0
+23:25:16.308620 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1061490, win 4840, options [nop,nop,TS val 2508691104 ecr 100746572], length 0
+23:25:16.308630 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1063209, win 4840, options [nop,nop,TS val 2508691104 ecr 100746572], length 0
+23:25:16.349412 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1063379, win 4840, options [nop,nop,TS val 2508691104 ecr 100746573], length 0
+23:25:16.376951 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [S], seq 2184237673, win 29200, options [mss 1460,sackOK,TS val 459470415 ecr 0,nop,wscale 7], length 0
+23:25:16.379349 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [.], ack 935236562, win 229, options [nop,nop,TS val 459470418 ecr 2081274041], length 0
+23:25:16.379670 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [P.], seq 0:192, ack 1, win 229, options [nop,nop,TS val 459470418 ecr 2081274041], length 192
+23:25:16.383232 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [.], ack 1369, win 251, options [nop,nop,TS val 459470422 ecr 2081274044], length 0
+23:25:16.383284 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [.], ack 2336, win 273, options [nop,nop,TS val 459470422 ecr 2081274044], length 0
+23:25:16.385863 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [P.], seq 192:285, ack 2336, win 273, options [nop,nop,TS val 459470424 ecr 2081274044], length 93
+23:25:16.386130 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [P.], seq 285:462, ack 2336, win 273, options [nop,nop,TS val 459470424 ecr 2081274044], length 177
+23:25:16.386156 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [P.], seq 462:705, ack 2336, win 273, options [nop,nop,TS val 459470425 ecr 2081274044], length 243
+23:25:16.386195 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [P.], seq 705:1655, ack 2336, win 273, options [nop,nop,TS val 459470425 ecr 2081274044], length 950
+23:25:16.388897 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [.], ack 2689, win 294, options [nop,nop,TS val 459470427 ecr 2081274050], length 0
+23:25:16.388927 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [P.], seq 1655:1693, ack 2689, win 294, options [nop,nop,TS val 459470427 ecr 2081274050], length 38
+23:25:16.433407 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [.], ack 2727, win 294, options [nop,nop,TS val 459470470 ecr 2081274051], length 0
+23:25:16.448224 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1063560, win 4840, options [nop,nop,TS val 2508691244 ecr 100746709], length 0
+23:25:16.456536 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1063793, win 4840, options [nop,nop,TS val 2508691252 ecr 100746719], length 0
+23:25:16.456573 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 5182:5228, ack 1063793, win 4840, options [nop,nop,TS val 2508691252 ecr 100746719], length 46
+23:25:16.509761 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 5228:5438, ack 1063793, win 4840, options [nop,nop,TS val 2508691305 ecr 100746723], length 210
+23:25:16.512640 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1064002, win 4840, options [nop,nop,TS val 2508691308 ecr 100746777], length 0
+23:25:16.512788 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 5438:5484, ack 1064048, win 4840, options [nop,nop,TS val 2508691308 ecr 100746777], length 46
+23:25:16.556857 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [.], ack 2887, win 315, options [nop,nop,TS val 459470595 ecr 2081274218], length 0
+23:25:16.559257 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [.], ack 2925, win 315, options [nop,nop,TS val 459470598 ecr 2081274220], length 0
+23:25:16.559267 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [.], ack 2971, win 315, options [nop,nop,TS val 459470598 ecr 2081274221], length 0
+23:25:16.559405 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [P.], seq 1693:1739, ack 2971, win 315, options [nop,nop,TS val 459470598 ecr 2081274221], length 46
+23:25:16.781782 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 5484:5870, ack 1064048, win 4840, options [nop,nop,TS val 2508691577 ecr 100746779], length 386
+23:25:16.786470 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 5870:6273, ack 1064048, win 4840, options [nop,nop,TS val 2508691582 ecr 100747048], length 403
+23:25:16.786550 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 6273:6311, ack 1064048, win 4840, options [nop,nop,TS val 2508691582 ecr 100747048], length 38
+23:25:16.901822 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 6311:6594, ack 1064048, win 4840, options [nop,nop,TS val 2508691697 ecr 100747053], length 283
+23:25:16.924803 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1065523, win 4840, options [nop,nop,TS val 2508691720 ecr 100747189], length 0
+23:25:16.924852 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1069627, win 4840, options [nop,nop,TS val 2508691720 ecr 100747189], length 0
+23:25:16.924857 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1072363, win 4840, options [nop,nop,TS val 2508691720 ecr 100747189], length 0
+23:25:16.924899 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1075099, win 4840, options [nop,nop,TS val 2508691720 ecr 100747189], length 0
+23:25:16.925009 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1079203, win 4840, options [nop,nop,TS val 2508691720 ecr 100747189], length 0
+23:25:16.925058 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1083307, win 4840, options [nop,nop,TS val 2508691720 ecr 100747189], length 0
+23:25:16.925265 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1086043, win 4840, options [nop,nop,TS val 2508691721 ecr 100747189], length 0
+23:25:16.925275 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1090147, win 4840, options [nop,nop,TS val 2508691721 ecr 100747189], length 0
+23:25:16.925280 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1092349, win 4840, options [nop,nop,TS val 2508691721 ecr 100747189], length 0
+23:25:16.925474 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1092433, win 4840, options [nop,nop,TS val 2508691721 ecr 100747189], length 0
+23:25:16.925529 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 6594:6640, ack 1092433, win 4840, options [nop,nop,TS val 2508691721 ecr 100747189], length 46
+23:25:16.939224 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 6640:6941, ack 1092433, win 4840, options [nop,nop,TS val 2508691735 ecr 100747189], length 301
+23:25:17.090400 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 6941:7570, ack 1092433, win 4840, options [nop,nop,TS val 2508691886 ecr 100747205], length 629
+23:25:17.090459 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 7570:7608, ack 1092433, win 4840, options [nop,nop,TS val 2508691886 ecr 100747205], length 38
+23:25:17.098734 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 7608:8547, ack 1092433, win 4840, options [nop,nop,TS val 2508691894 ecr 100747357], length 939
+23:25:17.119224 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1096862, win 4840, options [nop,nop,TS val 2508691915 ecr 100747380], length 0
+23:25:17.124588 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1099598, win 4840, options [nop,nop,TS val 2508691920 ecr 100747388], length 0
+23:25:17.124611 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1101069, win 4840, options [nop,nop,TS val 2508691920 ecr 100747388], length 0
+23:25:17.125200 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1105377, win 4840, options [nop,nop,TS val 2508691921 ecr 100747389], length 0
+23:25:17.125649 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1107257, win 4840, options [nop,nop,TS val 2508691921 ecr 100747390], length 0
+23:25:17.125776 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1107588, win 4840, options [nop,nop,TS val 2508691921 ecr 100747390], length 0
+23:25:17.125813 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 8547:8593, ack 1107588, win 4840, options [nop,nop,TS val 2508691921 ecr 100747390], length 46
+23:25:17.172999 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1110409, win 4840, options [nop,nop,TS val 2508691968 ecr 100747437], length 0
+23:25:17.173043 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1115881, win 4840, options [nop,nop,TS val 2508691968 ecr 100747437], length 0
+23:25:17.173100 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1122721, win 4840, options [nop,nop,TS val 2508691968 ecr 100747437], length 0
+23:25:17.173142 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1125454, win 4840, options [nop,nop,TS val 2508691969 ecr 100747437], length 0
+23:25:17.173361 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1129558, win 4840, options [nop,nop,TS val 2508691969 ecr 100747437], length 0
+23:25:17.173414 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1136398, win 4840, options [nop,nop,TS val 2508691969 ecr 100747437], length 0
+23:25:17.173457 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1139819, win 4840, options [nop,nop,TS val 2508691969 ecr 100747437], length 0
+23:25:17.173466 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1142555, win 4840, options [nop,nop,TS val 2508691969 ecr 100747437], length 0
+23:25:17.173511 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1145291, win 4840, options [nop,nop,TS val 2508691969 ecr 100747437], length 0
+23:25:17.174540 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1149395, win 4840, options [nop,nop,TS val 2508691970 ecr 100747437], length 0
+23:25:17.174590 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1154867, win 4840, options [nop,nop,TS val 2508691970 ecr 100747437], length 0
+23:25:17.174638 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1156270, win 4840, options [nop,nop,TS val 2508691970 ecr 100747437], length 0
+23:25:17.174646 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1161742, win 4840, options [nop,nop,TS val 2508691970 ecr 100747437], length 0
+23:25:17.174687 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1165846, win 4840, options [nop,nop,TS val 2508691970 ecr 100747437], length 0
+23:25:17.175350 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1169950, win 4840, options [nop,nop,TS val 2508691971 ecr 100747437], length 0
+23:25:17.175401 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1175422, win 4840, options [nop,nop,TS val 2508691971 ecr 100747437], length 0
+23:25:17.175454 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1182262, win 4840, options [nop,nop,TS val 2508691971 ecr 100747437], length 0
+23:25:17.175500 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1186366, win 4840, options [nop,nop,TS val 2508691971 ecr 100747437], length 0
+23:25:17.176503 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1189096, win 4840, options [nop,nop,TS val 2508691972 ecr 100747437], length 0
+23:25:17.176517 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1191867, win 4840, options [nop,nop,TS val 2508691972 ecr 100747437], length 0
+23:25:17.176554 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1195971, win 4840, options [nop,nop,TS val 2508691972 ecr 100747437], length 0
+23:25:17.176605 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1202811, win 4840, options [nop,nop,TS val 2508691972 ecr 100747437], length 0
+23:25:17.176667 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1206915, win 4840, options [nop,nop,TS val 2508691972 ecr 100747437], length 0
+23:25:17.177204 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1209651, win 4840, options [nop,nop,TS val 2508691973 ecr 100747437], length 0
+23:25:17.177257 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1216491, win 4840, options [nop,nop,TS val 2508691973 ecr 100747437], length 0
+23:25:17.177303 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1221963, win 4840, options [nop,nop,TS val 2508691973 ecr 100747437], length 0
+23:25:17.177353 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1224699, win 4840, options [nop,nop,TS val 2508691973 ecr 100747437], length 0
+23:25:17.178623 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1228803, win 4840, options [nop,nop,TS val 2508691974 ecr 100747437], length 0
+23:25:17.178667 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1234275, win 4840, options [nop,nop,TS val 2508691974 ecr 100747437], length 0
+23:25:17.178716 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1238408, win 4840, options [nop,nop,TS val 2508691974 ecr 100747437], length 0
+23:25:17.178727 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1241191, win 4840, options [nop,nop,TS val 2508691974 ecr 100747438], length 0
+23:25:17.178766 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1245295, win 4840, options [nop,nop,TS val 2508691974 ecr 100747438], length 0
+23:25:17.179355 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1249399, win 4840, options [nop,nop,TS val 2508691975 ecr 100747438], length 0
+23:25:17.179404 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1254871, win 4840, options [nop,nop,TS val 2508691975 ecr 100747438], length 0
+23:25:17.179453 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1261711, win 4840, options [nop,nop,TS val 2508691975 ecr 100747438], length 0
+23:25:17.179510 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1265815, win 4840, options [nop,nop,TS val 2508691975 ecr 100747438], length 0
+23:25:17.180368 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1268551, win 4840, options [nop,nop,TS val 2508691976 ecr 100747438], length 0
+23:25:17.180419 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1275391, win 4840, options [nop,nop,TS val 2508691976 ecr 100747438], length 0
+23:25:17.180472 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1280863, win 4840, options [nop,nop,TS val 2508691976 ecr 100747438], length 0
+23:25:17.180521 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1284967, win 4840, options [nop,nop,TS val 2508691976 ecr 100747438], length 0
+23:25:17.181559 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1289071, win 4840, options [nop,nop,TS val 2508691977 ecr 100747438], length 0
+23:25:17.181608 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1294543, win 4840, options [nop,nop,TS val 2508691977 ecr 100747438], length 0
+23:25:17.181656 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1297279, win 4840, options [nop,nop,TS val 2508691977 ecr 100747438], length 0
+23:25:17.181664 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1301383, win 4840, options [nop,nop,TS val 2508691977 ecr 100747439], length 0
+23:25:17.181713 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1305487, win 4838, options [nop,nop,TS val 2508691977 ecr 100747440], length 0
+23:25:17.182392 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1309591, win 4840, options [nop,nop,TS val 2508691978 ecr 100747440], length 0
+23:25:17.182439 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1315918, win 4840, options [nop,nop,TS val 2508691978 ecr 100747440], length 0
+23:25:17.182638 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 8593:8639, ack 1315918, win 4840, options [nop,nop,TS val 2508691978 ecr 100747440], length 46
+23:25:17.221537 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1318871, win 4840, options [nop,nop,TS val 2508692017 ecr 100747485], length 0
+23:25:17.221579 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1320316, win 4840, options [nop,nop,TS val 2508692017 ecr 100747485], length 0
+23:25:17.222996 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1324698, win 4840, options [nop,nop,TS val 2508692018 ecr 100747486], length 0
+23:25:17.226818 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1325556, win 4840, options [nop,nop,TS val 2508692022 ecr 100747487], length 0
+23:25:17.226844 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 8639:8685, ack 1325556, win 4840, options [nop,nop,TS val 2508692022 ecr 100747487], length 46
+23:25:17.234391 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1329745, win 4840, options [nop,nop,TS val 2508692030 ecr 100747498], length 0
+23:25:17.234439 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1335217, win 4840, options [nop,nop,TS val 2508692030 ecr 100747498], length 0
+23:25:17.234489 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1337953, win 4840, options [nop,nop,TS val 2508692030 ecr 100747498], length 0
+23:25:17.235352 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1342054, win 4840, options [nop,nop,TS val 2508692031 ecr 100747498], length 0
+23:25:17.235363 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1344790, win 4840, options [nop,nop,TS val 2508692031 ecr 100747498], length 0
+23:25:17.235401 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1348894, win 4840, options [nop,nop,TS val 2508692031 ecr 100747498], length 0
+23:25:17.235452 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1354366, win 4840, options [nop,nop,TS val 2508692031 ecr 100747498], length 0
+23:25:17.235499 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1357795, win 4840, options [nop,nop,TS val 2508692031 ecr 100747498], length 0
+23:25:17.236352 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1363267, win 4840, options [nop,nop,TS val 2508692032 ecr 100747498], length 0
+23:25:17.236401 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1368739, win 4840, options [nop,nop,TS val 2508692032 ecr 100747498], length 0
+23:25:17.236449 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1374208, win 4840, options [nop,nop,TS val 2508692032 ecr 100747498], length 0
+23:25:17.237434 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1378312, win 4840, options [nop,nop,TS val 2508692033 ecr 100747499], length 0
+23:25:17.237477 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1383784, win 4840, options [nop,nop,TS val 2508692033 ecr 100747499], length 0
+23:25:17.237528 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1390624, win 4840, options [nop,nop,TS val 2508692033 ecr 100747499], length 0
+23:25:17.237578 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1393360, win 4840, options [nop,nop,TS val 2508692033 ecr 100747499], length 0
+23:25:17.238365 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1397464, win 4840, options [nop,nop,TS val 2508692034 ecr 100747499], length 0
+23:25:17.238413 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1402936, win 4840, options [nop,nop,TS val 2508692034 ecr 100747499], length 0
+23:25:17.238464 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1409776, win 4840, options [nop,nop,TS val 2508692034 ecr 100747499], length 0
+23:25:17.239216 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1413880, win 4840, options [nop,nop,TS val 2508692035 ecr 100747499], length 0
+23:25:17.239266 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1419352, win 4840, options [nop,nop,TS val 2508692035 ecr 100747499], length 0
+23:25:17.239311 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1423456, win 4840, options [nop,nop,TS val 2508692035 ecr 100747499], length 0
+23:25:17.240401 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1427560, win 4840, options [nop,nop,TS val 2508692036 ecr 100747501], length 0
+23:25:17.240453 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1434400, win 4840, options [nop,nop,TS val 2508692036 ecr 100747501], length 0
+23:25:17.240500 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1439872, win 4840, options [nop,nop,TS val 2508692036 ecr 100747502], length 0
+23:25:17.240552 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1442608, win 4840, options [nop,nop,TS val 2508692036 ecr 100747502], length 0
+23:25:17.241359 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1446712, win 4840, options [nop,nop,TS val 2508692037 ecr 100747502], length 0
+23:25:17.241429 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1453552, win 4840, options [nop,nop,TS val 2508692037 ecr 100747503], length 0
+23:25:17.241457 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1459024, win 4840, options [nop,nop,TS val 2508692037 ecr 100747503], length 0
+23:25:17.242219 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1463128, win 4840, options [nop,nop,TS val 2508692038 ecr 100747503], length 0
+23:25:17.242265 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1466658, win 4840, options [nop,nop,TS val 2508692038 ecr 100747503], length 0
+23:25:17.242431 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 8685:8731, ack 1466658, win 4840, options [nop,nop,TS val 2508692038 ecr 100747503], length 46
+23:25:17.332919 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 8731:9131, ack 1466658, win 4840, options [nop,nop,TS val 2508692128 ecr 100747509], length 400
+23:25:17.372409 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1473582, win 4840, options [nop,nop,TS val 2508692168 ecr 100747636], length 0
+23:25:17.372446 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1479054, win 4840, options [nop,nop,TS val 2508692168 ecr 100747636], length 0
+23:25:17.372587 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1483155, win 4840, options [nop,nop,TS val 2508692168 ecr 100747636], length 0
+23:25:17.372839 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1487259, win 4840, options [nop,nop,TS val 2508692168 ecr 100747636], length 0
+23:25:17.373381 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1494099, win 4840, options [nop,nop,TS val 2508692169 ecr 100747636], length 0
+23:25:17.373417 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1498889, win 4840, options [nop,nop,TS val 2508692169 ecr 100747636], length 0
+23:25:17.373465 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1501625, win 4840, options [nop,nop,TS val 2508692169 ecr 100747636], length 0
+23:25:17.374435 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1512569, win 4840, options [nop,nop,TS val 2508692170 ecr 100747636], length 0
+23:25:17.374450 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1515302, win 4840, options [nop,nop,TS val 2508692170 ecr 100747636], length 0
+23:25:17.374721 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1524878, win 4840, options [nop,nop,TS val 2508692170 ecr 100747637], length 0
+23:25:17.375327 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1533086, win 4840, options [nop,nop,TS val 2508692171 ecr 100747637], length 0
+23:25:17.375480 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 9131:9177, ack 1533632, win 4840, options [nop,nop,TS val 2508692171 ecr 100747637], length 46
+23:25:17.388662 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 9177:9401, ack 1533632, win 4840, options [nop,nop,TS val 2508692184 ecr 100747637], length 224
+23:25:17.388684 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 9401:9785, ack 1533632, win 4840, options [nop,nop,TS val 2508692184 ecr 100747637], length 384
+23:25:17.483006 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 9785:10295, ack 1533632, win 4840, options [nop,nop,TS val 2508692278 ecr 100747655], length 510
+23:25:17.528023 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1537821, win 4840, options [nop,nop,TS val 2508692323 ecr 100747792], length 0
+23:25:17.528051 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1543293, win 4840, options [nop,nop,TS val 2508692323 ecr 100747792], length 0
+23:25:17.528182 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1548765, win 4840, options [nop,nop,TS val 2508692324 ecr 100747792], length 0
+23:25:17.528320 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1558338, win 4812, options [nop,nop,TS val 2508692324 ecr 100747792], length 0
+23:25:17.528386 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1562442, win 4789, options [nop,nop,TS val 2508692324 ecr 100747792], length 0
+23:25:17.528412 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1565863, win 4840, options [nop,nop,TS val 2508692324 ecr 100747792], length 0
+23:25:17.528877 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1574071, win 4840, options [nop,nop,TS val 2508692324 ecr 100747792], length 0
+23:25:17.528936 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1580911, win 4840, options [nop,nop,TS val 2508692324 ecr 100747792], length 0
+23:25:17.529334 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1582314, win 4840, options [nop,nop,TS val 2508692325 ecr 100747792], length 0
+23:25:17.529595 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1589154, win 4840, options [nop,nop,TS val 2508692325 ecr 100747793], length 0
+23:25:17.529612 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1591890, win 4840, options [nop,nop,TS val 2508692325 ecr 100747793], length 0
+23:25:17.529662 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1598727, win 4840, options [nop,nop,TS val 2508692325 ecr 100747793], length 0
+23:25:17.530388 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1605567, win 4840, options [nop,nop,TS val 2508692326 ecr 100747793], length 0
+23:25:17.530407 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1608303, win 4840, options [nop,nop,TS val 2508692326 ecr 100747793], length 0
+23:25:17.530459 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1615143, win 4840, options [nop,nop,TS val 2508692326 ecr 100747793], length 0
+23:25:17.530507 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1620615, win 4840, options [nop,nop,TS val 2508692326 ecr 100747793], length 0
+23:25:17.531405 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1628823, win 4840, options [nop,nop,TS val 2508692327 ecr 100747793], length 0
+23:25:17.531643 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1637031, win 4840, options [nop,nop,TS val 2508692327 ecr 100747794], length 0
+23:25:17.531660 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1639767, win 4840, options [nop,nop,TS val 2508692327 ecr 100747794], length 0
+23:25:17.531713 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1645239, win 4840, options [nop,nop,TS val 2508692327 ecr 100747794], length 0
+23:25:17.532400 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1652079, win 4840, options [nop,nop,TS val 2508692328 ecr 100747794], length 0
+23:25:17.532421 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1656183, win 4840, options [nop,nop,TS val 2508692328 ecr 100747794], length 0
+23:25:17.532467 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1660287, win 4840, options [nop,nop,TS val 2508692328 ecr 100747796], length 0
+23:25:17.532590 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1664838, win 4838, options [nop,nop,TS val 2508692328 ecr 100747796], length 0
+23:25:17.532730 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 10295:10341, ack 1664838, win 4840, options [nop,nop,TS val 2508692328 ecr 100747796], length 46
+23:25:17.610289 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 10341:10840, ack 1664838, win 4840, options [nop,nop,TS val 2508692406 ecr 100747799], length 499
+23:25:17.634214 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1666481, win 4840, options [nop,nop,TS val 2508692430 ecr 100747898], length 0
+23:25:17.634326 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1666565, win 4840, options [nop,nop,TS val 2508692430 ecr 100747898], length 0
+23:25:17.634351 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 10840:10886, ack 1666565, win 4840, options [nop,nop,TS val 2508692430 ecr 100747898], length 46
+23:25:17.642581 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 10886:11124, ack 1666565, win 4840, options [nop,nop,TS val 2508692438 ecr 100747898], length 238
+23:25:17.646160 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1667540, win 4840, options [nop,nop,TS val 2508692442 ecr 100747910], length 0
+23:25:17.665261 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1667821, win 4840, options [nop,nop,TS val 2508692460 ecr 100747926], length 0
+23:25:17.665294 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 11124:11170, ack 1667821, win 4840, options [nop,nop,TS val 2508692461 ecr 100747926], length 46
+23:25:17.671826 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 11170:11569, ack 1667821, win 4840, options [nop,nop,TS val 2508692467 ecr 100747926], length 399
+23:25:17.671887 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 11569:11607, ack 1667821, win 4840, options [nop,nop,TS val 2508692467 ecr 100747926], length 38
+23:25:17.674418 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1670064, win 4840, options [nop,nop,TS val 2508692470 ecr 100747938], length 0
+23:25:17.674677 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1670148, win 4840, options [nop,nop,TS val 2508692470 ecr 100747938], length 0
+23:25:17.674712 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 11607:11653, ack 1670148, win 4840, options [nop,nop,TS val 2508692470 ecr 100747938], length 46
+23:25:17.679243 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 11653:11966, ack 1670148, win 4840, options [nop,nop,TS val 2508692475 ecr 100747938], length 313
+23:25:17.696081 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1671072, win 4840, options [nop,nop,TS val 2508692491 ecr 100747960], length 0
+23:25:17.696111 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 11966:12012, ack 1671072, win 4840, options [nop,nop,TS val 2508692491 ecr 100747960], length 46
+23:25:17.714547 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1675519, win 4840, options [nop,nop,TS val 2508692510 ecr 100747977], length 0
+23:25:17.717602 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1679841, win 4840, options [nop,nop,TS val 2508692513 ecr 100747978], length 0
+23:25:17.718009 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1684051, win 4840, options [nop,nop,TS val 2508692513 ecr 100747982], length 0
+23:25:17.727411 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1688491, win 4840, options [nop,nop,TS val 2508692523 ecr 100747982], length 0
+23:25:17.727995 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1692753, win 4840, options [nop,nop,TS val 2508692523 ecr 100747992], length 0
+23:25:17.728392 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1697070, win 4840, options [nop,nop,TS val 2508692524 ecr 100747992], length 0
+23:25:17.728813 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1699806, win 4840, options [nop,nop,TS val 2508692524 ecr 100747993], length 0
+23:25:17.728987 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1701214, win 4840, options [nop,nop,TS val 2508692524 ecr 100747993], length 0
+23:25:17.729085 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1701392, win 4840, options [nop,nop,TS val 2508692524 ecr 100747993], length 0
+23:25:17.729118 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 12012:12058, ack 1701392, win 4840, options [nop,nop,TS val 2508692524 ecr 100747993], length 46
+23:25:17.766740 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 12058:12382, ack 1701392, win 4840, options [nop,nop,TS val 2508692562 ecr 100747993], length 324
+23:25:17.787029 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1709034, win 4840, options [nop,nop,TS val 2508692582 ecr 100748051], length 0
+23:25:17.787193 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1709118, win 4840, options [nop,nop,TS val 2508692583 ecr 100748051], length 0
+23:25:17.787222 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 12382:12428, ack 1709118, win 4840, options [nop,nop,TS val 2508692583 ecr 100748051], length 46
+23:25:17.795084 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 12428:12670, ack 1709118, win 4840, options [nop,nop,TS val 2508692590 ecr 100748051], length 242
+23:25:17.798039 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 12670:14314, ack 1709118, win 4840, options [nop,nop,TS val 2508692593 ecr 100748061], length 1644
+23:25:17.798089 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 14314:14352, ack 1709118, win 4840, options [nop,nop,TS val 2508692593 ecr 100748061], length 38
+23:25:17.819365 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1710570, win 4840, options [nop,nop,TS val 2508692615 ecr 100748083], length 0
+23:25:17.819413 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1716042, win 4840, options [nop,nop,TS val 2508692615 ecr 100748083], length 0
+23:25:17.819460 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1719380, win 4840, options [nop,nop,TS val 2508692615 ecr 100748083], length 0
+23:25:17.819566 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1719464, win 4840, options [nop,nop,TS val 2508692615 ecr 100748083], length 0
+23:25:17.819588 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 14352:14398, ack 1719464, win 4840, options [nop,nop,TS val 2508692615 ecr 100748083], length 46
+23:25:17.836749 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 14398:14949, ack 1719464, win 4840, options [nop,nop,TS val 2508692632 ecr 100748083], length 551
+23:25:17.856040 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1722284, win 4840, options [nop,nop,TS val 2508692651 ecr 100748120], length 0
+23:25:17.856166 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1724342, win 4840, options [nop,nop,TS val 2508692652 ecr 100748120], length 0
+23:25:17.856334 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1724426, win 4840, options [nop,nop,TS val 2508692652 ecr 100748120], length 0
+23:25:17.856365 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 14949:14995, ack 1724426, win 4840, options [nop,nop,TS val 2508692652 ecr 100748120], length 46
+23:25:17.867159 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 14995:15282, ack 1724426, win 4840, options [nop,nop,TS val 2508692663 ecr 100748120], length 287
+23:25:17.903380 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1725879, win 4840, options [nop,nop,TS val 2508692699 ecr 100748167], length 0
+23:25:17.903433 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1732719, win 4840, options [nop,nop,TS val 2508692699 ecr 100748167], length 0
+23:25:17.903476 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1738191, win 4840, options [nop,nop,TS val 2508692699 ecr 100748167], length 0
+23:25:17.903528 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1740924, win 4840, options [nop,nop,TS val 2508692699 ecr 100748167], length 0
+23:25:17.903667 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1749132, win 4840, options [nop,nop,TS val 2508692699 ecr 100748167], length 0
+23:25:17.903838 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1753236, win 4840, options [nop,nop,TS val 2508692699 ecr 100748167], length 0
+23:25:17.903885 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1756659, win 4840, options [nop,nop,TS val 2508692699 ecr 100748167], length 0
+23:25:17.904434 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 15282:15328, ack 1756793, win 4840, options [nop,nop,TS val 2508692700 ecr 100748168], length 46
+23:25:17.966497 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 15328:15581, ack 1756793, win 4840, options [nop,nop,TS val 2508692762 ecr 100748171], length 253
+23:25:17.984208 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1757684, win 4840, options [nop,nop,TS val 2508692779 ecr 100748248], length 0
+23:25:17.984239 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 15581:15627, ack 1757684, win 4840, options [nop,nop,TS val 2508692780 ecr 100748248], length 46
+23:25:18.026466 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 15627:15869, ack 1757684, win 4840, options [nop,nop,TS val 2508692822 ecr 100748248], length 242
+23:25:18.043134 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1758436, win 4840, options [nop,nop,TS val 2508692838 ecr 100748307], length 0
+23:25:18.049786 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1758576, win 4840, options [nop,nop,TS val 2508692845 ecr 100748313], length 0
+23:25:18.049817 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 15869:15915, ack 1758576, win 4840, options [nop,nop,TS val 2508692845 ecr 100748313], length 46
+23:25:18.051839 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1762764, win 4840, options [nop,nop,TS val 2508692847 ecr 100748316], length 0
+23:25:18.051866 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1765952, win 4840, options [nop,nop,TS val 2508692847 ecr 100748316], length 0
+23:25:18.061202 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 15915:16354, ack 1765990, win 4840, options [nop,nop,TS val 2508692857 ecr 100748316], length 439
+23:25:18.061256 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 16354:16392, ack 1765990, win 4840, options [nop,nop,TS val 2508692857 ecr 100748316], length 38
+23:25:18.064970 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 16392:16641, ack 1765990, win 4840, options [nop,nop,TS val 2508692860 ecr 100748327], length 249
+23:25:18.109641 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1768811, win 4840, options [nop,nop,TS val 2508692905 ecr 100748374], length 0
+23:25:18.109815 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1772915, win 4840, options [nop,nop,TS val 2508692905 ecr 100748374], length 0
+23:25:18.109868 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1779755, win 4840, options [nop,nop,TS val 2508692905 ecr 100748374], length 0
+23:25:18.109908 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1782488, win 4840, options [nop,nop,TS val 2508692905 ecr 100748374], length 0
+23:25:18.110018 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1787960, win 4840, options [nop,nop,TS val 2508692905 ecr 100748374], length 0
+23:25:18.110067 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1794800, win 4840, options [nop,nop,TS val 2508692905 ecr 100748374], length 0
+23:25:18.110118 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1798222, win 4840, options [nop,nop,TS val 2508692905 ecr 100748374], length 0
+23:25:18.110633 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1809166, win 4840, options [nop,nop,TS val 2508692906 ecr 100748374], length 0
+23:25:18.110686 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1810910, win 4840, options [nop,nop,TS val 2508692906 ecr 100748374], length 0
+23:25:18.111049 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1810994, win 4840, options [nop,nop,TS val 2508692906 ecr 100748374], length 0
+23:25:18.111098 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 16641:16687, ack 1810994, win 4840, options [nop,nop,TS val 2508692906 ecr 100748374], length 46
+23:25:18.322394 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1812656, win 4840, options [nop,nop,TS val 2508693118 ecr 100748586], length 0
+23:25:18.330596 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1813971, win 4840, options [nop,nop,TS val 2508693126 ecr 100748586], length 0
+23:25:18.330789 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 16687:16733, ack 1814017, win 4840, options [nop,nop,TS val 2508693126 ecr 100748595], length 46
+23:25:18.342622 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1818423, win 4840, options [nop,nop,TS val 2508693138 ecr 100748606], length 0
+23:25:18.347616 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1822763, win 4840, options [nop,nop,TS val 2508693143 ecr 100748607], length 0
+23:25:18.348001 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1827021, win 4840, options [nop,nop,TS val 2508693143 ecr 100748612], length 0
+23:25:18.354623 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1831464, win 4840, options [nop,nop,TS val 2508693150 ecr 100748612], length 0
+23:25:18.354813 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1835704, win 4840, options [nop,nop,TS val 2508693150 ecr 100748619], length 0
+23:25:18.355386 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1837675, win 4840, options [nop,nop,TS val 2508693151 ecr 100748619], length 0
+23:25:18.355846 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1837832, win 4840, options [nop,nop,TS val 2508693151 ecr 100748620], length 0
+23:25:18.355876 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 16733:16779, ack 1837832, win 4840, options [nop,nop,TS val 2508693151 ecr 100748620], length 46
+23:25:18.393652 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 16779:17174, ack 1837832, win 4840, options [nop,nop,TS val 2508693189 ecr 100748620], length 395
+23:25:18.393703 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 17174:17212, ack 1837832, win 4840, options [nop,nop,TS val 2508693189 ecr 100748620], length 38
+23:25:19.012455 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1842368, win 4840, options [nop,nop,TS val 2508693808 ecr 100749276], length 0
+23:25:19.015659 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1845353, win 4840, options [nop,nop,TS val 2508693811 ecr 100749277], length 0
+23:25:19.015837 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1846777, win 4840, options [nop,nop,TS val 2508693811 ecr 100749280], length 0
+23:25:19.016038 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1850922, win 4840, options [nop,nop,TS val 2508693811 ecr 100749280], length 0
+23:25:19.019273 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1855441, win 4840, options [nop,nop,TS val 2508693815 ecr 100749280], length 0
+23:25:19.021174 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1856977, win 4840, options [nop,nop,TS val 2508693817 ecr 100749283], length 0
+23:25:19.021370 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 17212:17258, ack 1857023, win 4840, options [nop,nop,TS val 2508693817 ecr 100749285], length 46
+23:25:19.089099 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 17258:17773, ack 1857023, win 4840, options [nop,nop,TS val 2508693884 ecr 100749288], length 515
+23:25:19.089152 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 17773:17827, ack 1857023, win 4840, options [nop,nop,TS val 2508693885 ecr 100749288], length 54
+23:25:19.343178 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1858353, win 4840, options [nop,nop,TS val 2508694138 ecr 100749607], length 0
+23:25:19.348341 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1858536, win 4840, options [nop,nop,TS val 2508694144 ecr 100749612], length 0
+23:25:19.348393 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 17827:17873, ack 1858536, win 4840, options [nop,nop,TS val 2508694144 ecr 100749612], length 46
+23:25:19.543514 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 17873:18270, ack 1858536, win 4840, options [nop,nop,TS val 2508694339 ecr 100749615], length 397
+23:25:19.543570 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 18270:18308, ack 1858536, win 4840, options [nop,nop,TS val 2508694339 ecr 100749615], length 38
+23:25:19.696157 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 18308:18615, ack 1858536, win 4840, options [nop,nop,TS val 2508694492 ecr 100749810], length 307
+23:25:19.696271 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 18615:18653, ack 1858536, win 4840, options [nop,nop,TS val 2508694492 ecr 100749810], length 38
+23:25:19.967302 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1859707, win 4840, options [nop,nop,TS val 2508694763 ecr 100750231], length 0
+23:25:19.971796 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1859833, win 4840, options [nop,nop,TS val 2508694767 ecr 100750235], length 0
+23:25:19.971828 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 18653:18699, ack 1859833, win 4840, options [nop,nop,TS val 2508694767 ecr 100750235], length 46
+23:25:20.115028 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1864427, win 4840, options [nop,nop,TS val 2508694910 ecr 100750378], length 0
+23:25:20.118431 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1869093, win 4840, options [nop,nop,TS val 2508694914 ecr 100750379], length 0
+23:25:20.118589 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1873276, win 4840, options [nop,nop,TS val 2508694914 ecr 100750383], length 0
+23:25:20.128636 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1877588, win 4840, options [nop,nop,TS val 2508694924 ecr 100750383], length 0
+23:25:20.136643 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1881905, win 4840, options [nop,nop,TS val 2508694932 ecr 100750401], length 0
+23:25:20.136975 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1883939, win 4840, options [nop,nop,TS val 2508694932 ecr 100750401], length 0
+23:25:20.137183 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1884209, win 4840, options [nop,nop,TS val 2508694933 ecr 100750401], length 0
+23:25:20.137231 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 18699:18745, ack 1884209, win 4840, options [nop,nop,TS val 2508694933 ecr 100750401], length 46
+23:25:20.227367 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 18745:19144, ack 1884209, win 4840, options [nop,nop,TS val 2508695023 ecr 100750403], length 399
+23:25:20.227435 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 19144:19182, ack 1884209, win 4840, options [nop,nop,TS val 2508695023 ecr 100750403], length 38
+23:25:20.844167 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1885804, win 4840, options [nop,nop,TS val 2508695640 ecr 100751107], length 0
+23:25:20.844281 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1888618, win 4840, options [nop,nop,TS val 2508695640 ecr 100751108], length 0
+23:25:20.847474 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1893069, win 4840, options [nop,nop,TS val 2508695643 ecr 100751108], length 0
+23:25:20.847637 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1895805, win 4840, options [nop,nop,TS val 2508695643 ecr 100751112], length 0
+23:25:20.847826 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1897426, win 4840, options [nop,nop,TS val 2508695643 ecr 100751112], length 0
+23:25:20.858660 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1901782, win 4840, options [nop,nop,TS val 2508695654 ecr 100751112], length 0
+23:25:20.859237 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1906053, win 4840, options [nop,nop,TS val 2508695655 ecr 100751123], length 0
+23:25:20.859629 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1910354, win 4840, options [nop,nop,TS val 2508695655 ecr 100751123], length 0
+23:25:20.860211 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1913137, win 4840, options [nop,nop,TS val 2508695656 ecr 100751124], length 0
+23:25:20.860381 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1913248, win 4840, options [nop,nop,TS val 2508695656 ecr 100751124], length 0
+23:25:20.860453 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 19182:19228, ack 1913248, win 4840, options [nop,nop,TS val 2508695656 ecr 100751124], length 46
+23:25:20.918693 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 19228:19554, ack 1913248, win 4840, options [nop,nop,TS val 2508695714 ecr 100751127], length 326
+23:25:20.918811 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 19554:19592, ack 1913248, win 4840, options [nop,nop,TS val 2508695714 ecr 100751127], length 38
+23:25:21.368872 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1917618, win 4840, options [nop,nop,TS val 2508696164 ecr 100751632], length 0
+23:25:21.370560 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1921939, win 4840, options [nop,nop,TS val 2508696166 ecr 100751633], length 0
+23:25:21.374992 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1922831, win 4840, options [nop,nop,TS val 2508696170 ecr 100751635], length 0
+23:25:21.375196 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 19592:19638, ack 1922877, win 4840, options [nop,nop,TS val 2508696171 ecr 100751639], length 46
+23:25:21.664966 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 19638:19945, ack 1922877, win 4840, options [nop,nop,TS val 2508696460 ecr 100751641], length 307
+23:25:21.665173 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 19945:19983, ack 1922877, win 4840, options [nop,nop,TS val 2508696461 ecr 100751641], length 38
+23:25:21.942942 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1924040, win 4840, options [nop,nop,TS val 2508696738 ecr 100752207], length 0
+23:25:21.949531 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1924176, win 4840, options [nop,nop,TS val 2508696745 ecr 100752213], length 0
+23:25:21.949559 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 19983:20029, ack 1924176, win 4840, options [nop,nop,TS val 2508696745 ecr 100752213], length 46
+23:25:29.610460 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 20029:20339, ack 1924176, win 4840, options [nop,nop,TS val 2508704406 ecr 100752216], length 310
+23:25:29.905420 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1926087, win 4840, options [nop,nop,TS val 2508704701 ecr 100760168], length 0
+23:25:29.905442 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1928823, win 4840, options [nop,nop,TS val 2508704701 ecr 100760169], length 0
+23:25:29.906947 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1930310, win 4840, options [nop,nop,TS val 2508704702 ecr 100760169], length 0
+23:25:29.906968 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1933046, win 4840, options [nop,nop,TS val 2508704702 ecr 100760171], length 0
+23:25:29.909458 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1933299, win 4840, options [nop,nop,TS val 2508704705 ecr 100760171], length 0
+23:25:29.909832 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 20339:20385, ack 1933345, win 4840, options [nop,nop,TS val 2508704705 ecr 100760174], length 46
+23:25:48.960747 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 20385:20578, ack 1933345, win 4840, options [nop,nop,TS val 2508723756 ecr 100760176], length 193
+23:25:49.189941 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1933548, win 4840, options [nop,nop,TS val 2508723985 ecr 100779454], length 0
+23:25:49.193240 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1933632, win 4840, options [nop,nop,TS val 2508723989 ecr 100779457], length 0
+23:25:49.193285 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 20578:20624, ack 1933632, win 4840, options [nop,nop,TS val 2508723989 ecr 100779457], length 46
+23:25:52.207499 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 20624:20933, ack 1933632, win 4840, options [nop,nop,TS val 2508727003 ecr 100779460], length 309
+23:25:52.225466 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 20933:21096, ack 1933632, win 4840, options [nop,nop,TS val 2508727021 ecr 100782474], length 163
+23:25:52.230200 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1934937, win 4840, options [nop,nop,TS val 2508727025 ecr 100782494], length 0
+23:25:52.230439 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1935021, win 4840, options [nop,nop,TS val 2508727026 ecr 100782494], length 0
+23:25:52.230473 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 21096:21142, ack 1935021, win 4840, options [nop,nop,TS val 2508727026 ecr 100782494], length 46
+23:25:52.321313 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 21142:21395, ack 1935021, win 4840, options [nop,nop,TS val 2508727117 ecr 100782497], length 253
+23:25:52.321364 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 21395:21548, ack 1935021, win 4840, options [nop,nop,TS val 2508727117 ecr 100782497], length 153
+23:25:52.321435 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 21548:21668, ack 1935021, win 4840, options [nop,nop,TS val 2508727117 ecr 100782497], length 120
+23:25:52.341600 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 21668:21910, ack 1935021, win 4840, options [nop,nop,TS val 2508727137 ecr 100782588], length 242
+23:25:52.363977 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1935648, win 4840, options [nop,nop,TS val 2508727159 ecr 100782628], length 0
+23:25:52.364865 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1935732, win 4840, options [nop,nop,TS val 2508727160 ecr 100782629], length 0
+23:25:52.364905 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 21910:21956, ack 1935732, win 4840, options [nop,nop,TS val 2508727160 ecr 100782629], length 46
+23:25:52.386844 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 21956:22194, ack 1935732, win 4840, options [nop,nop,TS val 2508727182 ecr 100782629], length 238
+23:25:52.390474 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 22194:23233, ack 1935732, win 4840, options [nop,nop,TS val 2508727186 ecr 100782653], length 1039
+23:25:52.390529 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 23233:23290, ack 1935732, win 4840, options [nop,nop,TS val 2508727186 ecr 100782653], length 57
+23:25:52.414132 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1936677, win 4840, options [nop,nop,TS val 2508727209 ecr 100782678], length 0
+23:25:52.414156 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 23290:23336, ack 1936677, win 4840, options [nop,nop,TS val 2508727210 ecr 100782678], length 46
+23:25:52.523465 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1937054, win 4840, options [nop,nop,TS val 2508727319 ecr 100782787], length 0
+23:25:52.528912 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1937138, win 4840, options [nop,nop,TS val 2508727324 ecr 100782793], length 0
+23:25:52.528953 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 23336:23382, ack 1937138, win 4840, options [nop,nop,TS val 2508727324 ecr 100782793], length 46
+23:25:52.567938 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1937986, win 4840, options [nop,nop,TS val 2508727363 ecr 100782832], length 0
+23:25:52.577677 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1938106, win 4840, options [nop,nop,TS val 2508727373 ecr 100782841], length 0
+23:25:52.577725 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 23382:23428, ack 1938106, win 4840, options [nop,nop,TS val 2508727373 ecr 100782841], length 46
+23:25:52.883962 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1939247, win 4840, options [nop,nop,TS val 2508727679 ecr 100783148], length 0
+23:25:52.898021 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1939452, win 4840, options [nop,nop,TS val 2508727693 ecr 100783162], length 0
+23:25:52.898066 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 23428:23474, ack 1939452, win 4840, options [nop,nop,TS val 2508727693 ecr 100783162], length 46
+23:25:58.328820 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 23474:24617, ack 1939452, win 4840, options [nop,nop,TS val 2508733124 ecr 100783164], length 1143
+23:25:58.328894 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 24617:24674, ack 1939452, win 4840, options [nop,nop,TS val 2508733124 ecr 100783164], length 57
+23:25:58.744428 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1940817, win 4840, options [nop,nop,TS val 2508733540 ecr 100789008], length 0
+23:25:58.750760 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1940943, win 4840, options [nop,nop,TS val 2508733546 ecr 100789015], length 0
+23:25:58.750805 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 24674:24720, ack 1940943, win 4840, options [nop,nop,TS val 2508733546 ecr 100789015], length 46
+23:25:59.141654 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 24720:25155, ack 1940943, win 4840, options [nop,nop,TS val 2508733937 ecr 100789017], length 435
+23:25:59.141724 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 25155:25193, ack 1940943, win 4840, options [nop,nop,TS val 2508733937 ecr 100789017], length 38
+23:25:59.156198 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 25193:25419, ack 1940943, win 4840, options [nop,nop,TS val 2508733952 ecr 100789408], length 226
+23:25:59.156252 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 25419:25632, ack 1940943, win 4840, options [nop,nop,TS val 2508733952 ecr 100789408], length 213
+23:25:59.405383 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1941872, win 4840, options [nop,nop,TS val 2508734201 ecr 100789669], length 0
+23:25:59.411669 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1942133, win 4840, options [nop,nop,TS val 2508734207 ecr 100789676], length 0
+23:25:59.411702 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 25632:25678, ack 1942133, win 4840, options [nop,nop,TS val 2508734207 ecr 100789676], length 46
+23:25:59.683315 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1944511, win 4840, options [nop,nop,TS val 2508734479 ecr 100789947], length 0
+23:25:59.685341 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1948615, win 4840, options [nop,nop,TS val 2508734481 ecr 100789949], length 0
+23:25:59.689870 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1950302, win 4840, options [nop,nop,TS val 2508734485 ecr 100789949], length 0
+23:25:59.689878 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1953038, win 4840, options [nop,nop,TS val 2508734485 ecr 100789954], length 0
+23:25:59.690248 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1954770, win 4840, options [nop,nop,TS val 2508734486 ecr 100789954], length 0
+23:25:59.690254 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1957506, win 4840, options [nop,nop,TS val 2508734486 ecr 100789954], length 0
+23:25:59.690298 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1959990, win 4840, options [nop,nop,TS val 2508734486 ecr 100789954], length 0
+23:25:59.691910 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1960215, win 4840, options [nop,nop,TS val 2508734487 ecr 100789956], length 0
+23:25:59.691956 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 25678:25724, ack 1960215, win 4840, options [nop,nop,TS val 2508734487 ecr 100789956], length 46
+23:25:59.909033 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 25724:26132, ack 1960215, win 4840, options [nop,nop,TS val 2508734704 ecr 100789958], length 408
+23:25:59.909095 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 26132:26170, ack 1960215, win 4840, options [nop,nop,TS val 2508734704 ecr 100789958], length 38
+23:26:00.528251 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1961802, win 4840, options [nop,nop,TS val 2508735324 ecr 100790792], length 0
+23:26:00.528263 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1964538, win 4840, options [nop,nop,TS val 2508735324 ecr 100790792], length 0
+23:26:00.528450 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1965013, win 4840, options [nop,nop,TS val 2508735324 ecr 100790792], length 0
+23:26:00.529667 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1969117, win 4840, options [nop,nop,TS val 2508735325 ecr 100790794], length 0
+23:26:00.529847 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1970711, win 4840, options [nop,nop,TS val 2508735325 ecr 100790794], length 0
+23:26:00.529853 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1973447, win 4840, options [nop,nop,TS val 2508735325 ecr 100790794], length 0
+23:26:00.530456 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1973833, win 4840, options [nop,nop,TS val 2508735326 ecr 100790794], length 0
+23:26:00.539849 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1976569, win 4840, options [nop,nop,TS val 2508735335 ecr 100790804], length 0
+23:26:00.540030 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1978149, win 4840, options [nop,nop,TS val 2508735335 ecr 100790804], length 0
+23:26:00.540459 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1982253, win 4840, options [nop,nop,TS val 2508735336 ecr 100790804], length 0
+23:26:00.541037 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1983762, win 4840, options [nop,nop,TS val 2508735336 ecr 100790804], length 0
+23:26:00.541228 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1986498, win 4840, options [nop,nop,TS val 2508735337 ecr 100790805], length 0
+23:26:00.541709 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1988197, win 4840, options [nop,nop,TS val 2508735337 ecr 100790805], length 0
+23:26:00.541719 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1989698, win 4840, options [nop,nop,TS val 2508735337 ecr 100790805], length 0
+23:26:00.542053 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1989861, win 4840, options [nop,nop,TS val 2508735337 ecr 100790806], length 0
+23:26:00.542091 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 26170:26216, ack 1989861, win 4840, options [nop,nop,TS val 2508735337 ecr 100790806], length 46
+23:26:00.571909 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 26216:26617, ack 1989861, win 4840, options [nop,nop,TS val 2508735367 ecr 100790808], length 401
+23:26:00.571961 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 26617:26655, ack 1989861, win 4840, options [nop,nop,TS val 2508735367 ecr 100790808], length 38
+23:26:01.156304 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 26655:27040, ack 1989861, win 4840, options [nop,nop,TS val 2508735952 ecr 100790838], length 385
+23:26:01.200515 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 27040:27195, ack 1989861, win 4840, options [nop,nop,TS val 2508735996 ecr 100791423], length 155
+23:26:01.218767 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 27195:27684, ack 1989861, win 4840, options [nop,nop,TS val 2508736014 ecr 100791467], length 489
+23:26:01.218836 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 27684:27722, ack 1989861, win 4840, options [nop,nop,TS val 2508736014 ecr 100791467], length 38
+23:26:01.220274 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 27722:27964, ack 1989861, win 4840, options [nop,nop,TS val 2508736016 ecr 100791467], length 242
+23:26:01.234430 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 27964:28130, ack 1989861, win 4840, options [nop,nop,TS val 2508736030 ecr 100791487], length 166
+23:26:01.242924 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1991343, win 4840, options [nop,nop,TS val 2508736038 ecr 100791507], length 0
+23:26:01.242942 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 1995447, win 4840, options [nop,nop,TS val 2508736038 ecr 100791507], length 0
+23:26:01.243066 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2000919, win 4840, options [nop,nop,TS val 2508736038 ecr 100791507], length 0
+23:26:01.243116 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2006018, win 4840, options [nop,nop,TS val 2508736038 ecr 100791507], length 0
+23:26:01.243126 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2008754, win 4840, options [nop,nop,TS val 2508736038 ecr 100791507], length 0
+23:26:01.243270 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2011490, win 4840, options [nop,nop,TS val 2508736039 ecr 100791507], length 0
+23:26:01.244080 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2015594, win 4840, options [nop,nop,TS val 2508736039 ecr 100791507], length 0
+23:26:01.244093 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2018330, win 4840, options [nop,nop,TS val 2508736039 ecr 100791507], length 0
+23:26:01.244119 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2021066, win 4840, options [nop,nop,TS val 2508736039 ecr 100791507], length 0
+23:26:01.244169 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2027906, win 4840, options [nop,nop,TS val 2508736040 ecr 100791507], length 0
+23:26:01.244233 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2032010, win 4838, options [nop,nop,TS val 2508736040 ecr 100791507], length 0
+23:26:01.245106 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2036114, win 4840, options [nop,nop,TS val 2508736040 ecr 100791507], length 0
+23:26:01.245147 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2038850, win 4840, options [nop,nop,TS val 2508736041 ecr 100791507], length 0
+23:26:01.245156 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2042954, win 4840, options [nop,nop,TS val 2508736041 ecr 100791507], length 0
+23:26:01.245203 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2048426, win 4840, options [nop,nop,TS val 2508736041 ecr 100791507], length 0
+23:26:01.245258 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2053898, win 4830, options [nop,nop,TS val 2508736041 ecr 100791507], length 0
+23:26:01.246082 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2058002, win 4840, options [nop,nop,TS val 2508736041 ecr 100791507], length 0
+23:26:01.246133 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2064153, win 4840, options [nop,nop,TS val 2508736041 ecr 100791507], length 0
+23:26:01.246182 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2069625, win 4840, options [nop,nop,TS val 2508736042 ecr 100791507], length 0
+23:26:01.246256 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2075097, win 4830, options [nop,nop,TS val 2508736042 ecr 100791507], length 0
+23:26:01.247080 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2080569, win 4840, options [nop,nop,TS val 2508736042 ecr 100791507], length 0
+23:26:01.247126 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2086041, win 4840, options [nop,nop,TS val 2508736042 ecr 100791507], length 0
+23:26:01.247173 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2089798, win 4840, options [nop,nop,TS val 2508736043 ecr 100791507], length 0
+23:26:01.247182 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2092534, win 4840, options [nop,nop,TS val 2508736043 ecr 100791509], length 0
+23:26:01.247237 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2098006, win 4830, options [nop,nop,TS val 2508736043 ecr 100791509], length 0
+23:26:01.248262 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2100742, win 4840, options [nop,nop,TS val 2508736044 ecr 100791509], length 0
+23:26:01.248273 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2103478, win 4840, options [nop,nop,TS val 2508736044 ecr 100791510], length 0
+23:26:01.248308 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2107582, win 4840, options [nop,nop,TS val 2508736044 ecr 100791510], length 0
+23:26:01.248361 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2114422, win 4840, options [nop,nop,TS val 2508736044 ecr 100791510], length 0
+23:26:01.248424 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2119894, win 4830, options [nop,nop,TS val 2508736044 ecr 100791510], length 0
+23:26:01.249234 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2123998, win 4840, options [nop,nop,TS val 2508736045 ecr 100791511], length 0
+23:26:01.249282 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2129470, win 4840, options [nop,nop,TS val 2508736045 ecr 100791511], length 0
+23:26:01.249334 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2136310, win 4840, options [nop,nop,TS val 2508736045 ecr 100791511], length 0
+23:26:01.249392 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2141782, win 4830, options [nop,nop,TS val 2508736045 ecr 100791511], length 0
+23:26:01.250088 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2147254, win 4840, options [nop,nop,TS val 2508736045 ecr 100791512], length 0
+23:26:01.250135 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2152726, win 4840, options [nop,nop,TS val 2508736046 ecr 100791512], length 0
+23:26:01.250185 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2158198, win 4840, options [nop,nop,TS val 2508736046 ecr 100791512], length 0
+23:26:01.250246 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2165038, win 4830, options [nop,nop,TS val 2508736046 ecr 100791512], length 0
+23:26:01.251077 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2169142, win 4840, options [nop,nop,TS val 2508736046 ecr 100791512], length 0
+23:26:01.251126 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2174614, win 4840, options [nop,nop,TS val 2508736046 ecr 100791512], length 0
+23:26:01.251176 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2181454, win 4840, options [nop,nop,TS val 2508736047 ecr 100791513], length 0
+23:26:01.251238 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2186926, win 4830, options [nop,nop,TS val 2508736047 ecr 100791513], length 0
+23:26:01.252254 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2191030, win 4840, options [nop,nop,TS val 2508736048 ecr 100791513], length 0
+23:26:01.252302 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2193766, win 4840, options [nop,nop,TS val 2508736048 ecr 100791513], length 0
+23:26:01.252308 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2197870, win 4840, options [nop,nop,TS val 2508736048 ecr 100791515], length 0
+23:26:01.252361 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2203342, win 4840, options [nop,nop,TS val 2508736048 ecr 100791515], length 0
+23:26:01.252421 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2208814, win 4830, options [nop,nop,TS val 2508736048 ecr 100791515], length 0
+23:26:01.253125 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2214286, win 4840, options [nop,nop,TS val 2508736048 ecr 100791515], length 0
+23:26:01.253136 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2217022, win 4840, options [nop,nop,TS val 2508736049 ecr 100791516], length 0
+23:26:01.253201 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2225230, win 4840, options [nop,nop,TS val 2508736049 ecr 100791516], length 0
+23:26:01.253256 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2230702, win 4830, options [nop,nop,TS val 2508736049 ecr 100791516], length 0
+23:26:01.254092 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2234806, win 4840, options [nop,nop,TS val 2508736049 ecr 100791516], length 0
+23:26:01.254131 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2237542, win 4840, options [nop,nop,TS val 2508736049 ecr 100791516], length 0
+23:26:01.255156 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2243014, win 4840, options [nop,nop,TS val 2508736051 ecr 100791517], length 0
+23:26:01.255198 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2247118, win 4840, options [nop,nop,TS val 2508736051 ecr 100791517], length 0
+23:26:01.255250 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2253958, win 4840, options [nop,nop,TS val 2508736051 ecr 100791517], length 0
+23:26:01.255296 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2256694, win 4840, options [nop,nop,TS val 2508736051 ecr 100791517], length 0
+23:26:01.256251 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2260798, win 4840, options [nop,nop,TS val 2508736052 ecr 100791517], length 0
+23:26:01.256300 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2266270, win 4840, options [nop,nop,TS val 2508736052 ecr 100791517], length 0
+23:26:01.256351 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2271701, win 4840, options [nop,nop,TS val 2508736052 ecr 100791517], length 0
+23:26:01.256585 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 28130:28176, ack 2271701, win 4840, options [nop,nop,TS val 2508736052 ecr 100791517], length 46
+23:26:01.559669 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2272363, win 4840, options [nop,nop,TS val 2508736355 ecr 100791824], length 0
+23:26:01.578395 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2272450, win 4840, options [nop,nop,TS val 2508736374 ecr 100791842], length 0
+23:26:01.578418 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 28176:28222, ack 2272450, win 4840, options [nop,nop,TS val 2508736374 ecr 100791842], length 46
+23:26:01.611003 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2274137, win 4840, options [nop,nop,TS val 2508736406 ecr 100791875], length 0
+23:26:01.781621 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2274472, win 4840, options [nop,nop,TS val 2508736577 ecr 100792045], length 0
+23:26:01.781671 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 28222:28268, ack 2274472, win 4840, options [nop,nop,TS val 2508736577 ecr 100792045], length 46
+23:26:01.811528 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2276058, win 4840, options [nop,nop,TS val 2508736607 ecr 100792075], length 0
+23:26:01.811549 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2278794, win 4840, options [nop,nop,TS val 2508736607 ecr 100792075], length 0
+23:26:01.812067 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2279238, win 4840, options [nop,nop,TS val 2508736607 ecr 100792076], length 0
+23:26:01.814935 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2281974, win 4840, options [nop,nop,TS val 2508736610 ecr 100792079], length 0
+23:26:01.814948 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2283611, win 4840, options [nop,nop,TS val 2508736610 ecr 100792079], length 0
+23:26:01.815519 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2287715, win 4840, options [nop,nop,TS val 2508736611 ecr 100792079], length 0
+23:26:01.815670 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2288085, win 4840, options [nop,nop,TS val 2508736611 ecr 100792079], length 0
+23:26:01.825240 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2290821, win 4840, options [nop,nop,TS val 2508736621 ecr 100792089], length 0
+23:26:01.825380 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2292427, win 4840, options [nop,nop,TS val 2508736621 ecr 100792089], length 0
+23:26:01.825393 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2296531, win 4840, options [nop,nop,TS val 2508736621 ecr 100792089], length 0
+23:26:01.825805 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2298228, win 4840, options [nop,nop,TS val 2508736621 ecr 100792089], length 0
+23:26:01.825819 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2300964, win 4840, options [nop,nop,TS val 2508736621 ecr 100792090], length 0
+23:26:01.826934 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2302610, win 4840, options [nop,nop,TS val 2508736622 ecr 100792090], length 0
+23:26:01.826960 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2305346, win 4840, options [nop,nop,TS val 2508736622 ecr 100792091], length 0
+23:26:01.835307 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2307023, win 4840, options [nop,nop,TS val 2508736631 ecr 100792091], length 0
+23:26:01.835335 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2309759, win 4840, options [nop,nop,TS val 2508736631 ecr 100792099], length 0
+23:26:01.835459 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2311392, win 4840, options [nop,nop,TS val 2508736631 ecr 100792099], length 0
+23:26:01.835466 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2314128, win 4840, options [nop,nop,TS val 2508736631 ecr 100792099], length 0
+23:26:01.836088 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2315807, win 4840, options [nop,nop,TS val 2508736631 ecr 100792099], length 0
+23:26:01.836102 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2318543, win 4840, options [nop,nop,TS val 2508736631 ecr 100792100], length 0
+23:26:01.836471 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2320089, win 4840, options [nop,nop,TS val 2508736632 ecr 100792100], length 0
+23:26:01.836686 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2322825, win 4840, options [nop,nop,TS val 2508736632 ecr 100792101], length 0
+23:26:01.837278 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2324539, win 4840, options [nop,nop,TS val 2508736633 ecr 100792101], length 0
+23:26:01.837301 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2327270, win 4840, options [nop,nop,TS val 2508736633 ecr 100792101], length 0
+23:26:01.880365 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2327801, win 4840, options [nop,nop,TS val 2508736676 ecr 100792142], length 0
+23:26:01.934840 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2327885, win 4840, options [nop,nop,TS val 2508736730 ecr 100792199], length 0
+23:26:01.934878 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 28268:28314, ack 2327885, win 4840, options [nop,nop,TS val 2508736730 ecr 100792199], length 46
+23:26:01.951111 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2328311, win 4840, options [nop,nop,TS val 2508736746 ecr 100792200], length 0
+23:26:01.956421 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2328395, win 4840, options [nop,nop,TS val 2508736752 ecr 100792220], length 0
+23:26:01.956491 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 28314:28360, ack 2328395, win 4840, options [nop,nop,TS val 2508736752 ecr 100792220], length 46
+23:26:02.001173 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 28360:28761, ack 2328395, win 4840, options [nop,nop,TS val 2508736797 ecr 100792223], length 401
+23:26:02.001248 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 28761:28799, ack 2328395, win 4840, options [nop,nop,TS val 2508736797 ecr 100792223], length 38
+23:26:02.902252 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2329982, win 4840, options [nop,nop,TS val 2508737698 ecr 100793165], length 0
+23:26:02.902262 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2332718, win 4840, options [nop,nop,TS val 2508737698 ecr 100793166], length 0
+23:26:02.902391 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2333042, win 4840, options [nop,nop,TS val 2508737698 ecr 100793166], length 0
+23:26:02.905305 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2335778, win 4840, options [nop,nop,TS val 2508737701 ecr 100793169], length 0
+23:26:02.905313 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2337385, win 4840, options [nop,nop,TS val 2508737701 ecr 100793169], length 0
+23:26:02.905471 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2341489, win 4840, options [nop,nop,TS val 2508737701 ecr 100793169], length 0
+23:26:02.906063 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2342048, win 4840, options [nop,nop,TS val 2508737701 ecr 100793169], length 0
+23:26:02.908264 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2344784, win 4840, options [nop,nop,TS val 2508737704 ecr 100793172], length 0
+23:26:02.909605 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2346145, win 4840, options [nop,nop,TS val 2508737705 ecr 100793172], length 0
+23:26:02.909853 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 28799:28845, ack 2346191, win 4840, options [nop,nop,TS val 2508737705 ecr 100793174], length 46
+23:26:02.923476 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 28845:29245, ack 2346191, win 4840, options [nop,nop,TS val 2508737719 ecr 100793176], length 400
+23:26:02.923540 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 29245:29283, ack 2346191, win 4840, options [nop,nop,TS val 2508737719 ecr 100793176], length 38
+23:26:03.299489 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 29283:30437, ack 2346191, win 4840, options [nop,nop,TS val 2508738095 ecr 100793190], length 1154
+23:26:03.299536 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 30437:30494, ack 2346191, win 4840, options [nop,nop,TS val 2508738095 ecr 100793190], length 57
+23:26:03.366707 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2347778, win 4840, options [nop,nop,TS val 2508738162 ecr 100793630], length 0
+23:26:03.366723 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2350514, win 4840, options [nop,nop,TS val 2508738162 ecr 100793630], length 0
+23:26:03.369256 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2352100, win 4840, options [nop,nop,TS val 2508738165 ecr 100793631], length 0
+23:26:03.369275 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2354836, win 4840, options [nop,nop,TS val 2508738165 ecr 100793633], length 0
+23:26:03.369680 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2356321, win 4840, options [nop,nop,TS val 2508738165 ecr 100793633], length 0
+23:26:03.369700 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2359057, win 4840, options [nop,nop,TS val 2508738165 ecr 100793633], length 0
+23:26:03.370016 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2359556, win 4840, options [nop,nop,TS val 2508738165 ecr 100793634], length 0
+23:26:03.375294 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2362292, win 4840, options [nop,nop,TS val 2508738171 ecr 100793639], length 0
+23:26:03.375314 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2363982, win 4840, options [nop,nop,TS val 2508738171 ecr 100793639], length 0
+23:26:03.375475 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2368086, win 4840, options [nop,nop,TS val 2508738171 ecr 100793639], length 0
+23:26:03.376076 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2369823, win 4840, options [nop,nop,TS val 2508738171 ecr 100793640], length 0
+23:26:03.376224 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2371447, win 4840, options [nop,nop,TS val 2508738172 ecr 100793640], length 0
+23:26:03.376388 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 30494:30540, ack 2371493, win 4840, options [nop,nop,TS val 2508738172 ecr 100793640], length 46
+23:26:03.418042 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 30540:31558, ack 2371493, win 4840, options [nop,nop,TS val 2508738213 ecr 100793643], length 1018
+23:26:03.418108 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 31558:31596, ack 2371493, win 4840, options [nop,nop,TS val 2508738213 ecr 100793643], length 38
+23:26:03.703409 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2372802, win 4840, options [nop,nop,TS val 2508738499 ecr 100793967], length 0
+23:26:03.708664 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2373063, win 4840, options [nop,nop,TS val 2508738504 ecr 100793972], length 0
+23:26:03.708709 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 31596:31642, ack 2373063, win 4840, options [nop,nop,TS val 2508738504 ecr 100793972], length 46
+23:26:04.118866 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2374649, win 4840, options [nop,nop,TS val 2508738914 ecr 100794382], length 0
+23:26:04.118885 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2377385, win 4840, options [nop,nop,TS val 2508738914 ecr 100794383], length 0
+23:26:04.119032 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2377735, win 4840, options [nop,nop,TS val 2508738914 ecr 100794383], length 0
+23:26:04.121951 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2380471, win 4840, options [nop,nop,TS val 2508738917 ecr 100794386], length 0
+23:26:04.122109 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2382037, win 4840, options [nop,nop,TS val 2508738917 ecr 100794386], length 0
+23:26:04.122468 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2386141, win 4840, options [nop,nop,TS val 2508738918 ecr 100794386], length 0
+23:26:04.122866 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2386679, win 4840, options [nop,nop,TS val 2508738918 ecr 100794386], length 0
+23:26:04.131053 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2389415, win 4840, options [nop,nop,TS val 2508738926 ecr 100794395], length 0
+23:26:04.131208 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2391150, win 4840, options [nop,nop,TS val 2508738927 ecr 100794395], length 0
+23:26:04.131424 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2395254, win 4840, options [nop,nop,TS val 2508738927 ecr 100794395], length 0
+23:26:04.132105 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2396831, win 4840, options [nop,nop,TS val 2508738927 ecr 100794395], length 0
+23:26:04.132118 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2399567, win 4840, options [nop,nop,TS val 2508738927 ecr 100794396], length 0
+23:26:04.132503 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2401173, win 4840, options [nop,nop,TS val 2508738928 ecr 100794396], length 0
+23:26:04.132512 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2403909, win 4840, options [nop,nop,TS val 2508738928 ecr 100794396], length 0
+23:26:04.137643 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2405433, win 4840, options [nop,nop,TS val 2508738933 ecr 100794396], length 0
+23:26:04.137651 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2408169, win 4840, options [nop,nop,TS val 2508738933 ecr 100794402], length 0
+23:26:04.138227 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2409784, win 4840, options [nop,nop,TS val 2508738934 ecr 100794402], length 0
+23:26:04.138236 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2412520, win 4840, options [nop,nop,TS val 2508738934 ecr 100794402], length 0
+23:26:04.138656 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2414010, win 4840, options [nop,nop,TS val 2508738934 ecr 100794402], length 0
+23:26:04.138666 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2415540, win 4840, options [nop,nop,TS val 2508738934 ecr 100794402], length 0
+23:26:04.139806 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2415660, win 4840, options [nop,nop,TS val 2508738935 ecr 100794404], length 0
+23:26:04.139836 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 31642:31688, ack 2415660, win 4840, options [nop,nop,TS val 2508738935 ecr 100794404], length 46
+23:26:04.179103 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 31688:32089, ack 2415660, win 4840, options [nop,nop,TS val 2508738974 ecr 100794406], length 401
+23:26:04.179185 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 32089:32127, ack 2415660, win 4840, options [nop,nop,TS val 2508738975 ecr 100794406], length 38
+23:26:04.938073 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2417248, win 4840, options [nop,nop,TS val 2508739733 ecr 100795201], length 0
+23:26:04.938098 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2419984, win 4840, options [nop,nop,TS val 2508739733 ecr 100795202], length 0
+23:26:04.940974 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2421587, win 4840, options [nop,nop,TS val 2508739736 ecr 100795202], length 0
+23:26:04.940989 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2424323, win 4840, options [nop,nop,TS val 2508739736 ecr 100795205], length 0
+23:26:04.941299 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2425954, win 4840, options [nop,nop,TS val 2508739737 ecr 100795205], length 0
+23:26:04.941501 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2428690, win 4840, options [nop,nop,TS val 2508739737 ecr 100795205], length 0
+23:26:04.941818 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2429165, win 4840, options [nop,nop,TS val 2508739737 ecr 100795205], length 0
+23:26:04.950431 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2431901, win 4840, options [nop,nop,TS val 2508739746 ecr 100795214], length 0
+23:26:04.950444 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2436005, win 4840, options [nop,nop,TS val 2508739746 ecr 100795214], length 0
+23:26:04.950461 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2437810, win 4840, options [nop,nop,TS val 2508739746 ecr 100795214], length 0
+23:26:04.951712 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2441914, win 4840, options [nop,nop,TS val 2508739747 ecr 100795216], length 0
+23:26:04.951723 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2446461, win 4840, options [nop,nop,TS val 2508739747 ecr 100795216], length 0
+23:26:04.957889 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2449197, win 4840, options [nop,nop,TS val 2508739753 ecr 100795222], length 0
+23:26:04.957898 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2450695, win 4840, options [nop,nop,TS val 2508739753 ecr 100795222], length 0
+23:26:04.958468 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2454799, win 4840, options [nop,nop,TS val 2508739754 ecr 100795222], length 0
+23:26:04.958481 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2456490, win 4840, options [nop,nop,TS val 2508739754 ecr 100795222], length 0
+23:26:04.958488 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2459226, win 4840, options [nop,nop,TS val 2508739754 ecr 100795222], length 0
+23:26:04.959045 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2460927, win 4840, options [nop,nop,TS val 2508739754 ecr 100795222], length 0
+23:26:04.959181 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2461737, win 4840, options [nop,nop,TS val 2508739754 ecr 100795223], length 0
+23:26:04.959242 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 32127:32173, ack 2461737, win 4840, options [nop,nop,TS val 2508739755 ecr 100795223], length 46
+23:26:09.850329 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 32173:32602, ack 2461737, win 4840, options [nop,nop,TS val 2508744646 ecr 100795225], length 429
+23:26:09.850406 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 32602:32640, ack 2461737, win 4840, options [nop,nop,TS val 2508744646 ecr 100795225], length 38
+23:26:10.135843 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2463533, win 4840, options [nop,nop,TS val 2508744931 ecr 100800400], length 0
+23:26:10.140007 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2463729, win 4840, options [nop,nop,TS val 2508744935 ecr 100800404], length 0
+23:26:10.140045 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 32640:32686, ack 2463729, win 4840, options [nop,nop,TS val 2508744935 ecr 100800404], length 46
+23:26:10.225534 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 32686:32979, ack 2463729, win 4840, options [nop,nop,TS val 2508745021 ecr 100800406], length 293
+23:26:10.225585 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 32979:33017, ack 2463729, win 4840, options [nop,nop,TS val 2508745021 ecr 100800406], length 38
+23:26:10.567936 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2465314, win 4840, options [nop,nop,TS val 2508745363 ecr 100800831], length 0
+23:26:10.567948 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2467621, win 4840, options [nop,nop,TS val 2508745363 ecr 100800832], length 0
+23:26:10.573472 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2467828, win 4840, options [nop,nop,TS val 2508745369 ecr 100800837], length 0
+23:26:10.573505 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 33017:33063, ack 2467828, win 4840, options [nop,nop,TS val 2508745369 ecr 100800837], length 46
+23:26:14.665758 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [P.], seq 1739:1785, ack 2971, win 315, options [nop,nop,TS val 459528704 ecr 2081274223], length 46
+23:26:14.709406 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [.], ack 3017, win 315, options [nop,nop,TS val 459528706 ecr 2081332329], length 0
+23:27:02.975744 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 33063:33604, ack 2467828, win 4840, options [nop,nop,TS val 2508797771 ecr 100800840], length 541
+23:27:02.975798 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 33604:33680, ack 2467828, win 4840, options [nop,nop,TS val 2508797771 ecr 100800840], length 76
+23:27:03.370122 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2469544, win 4840, options [nop,nop,TS val 2508798165 ecr 100853634], length 0
+23:27:03.373053 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2469629, win 4840, options [nop,nop,TS val 2508798168 ecr 100853637], length 0
+23:27:03.373084 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 33680:33726, ack 2469629, win 4840, options [nop,nop,TS val 2508798168 ecr 100853637], length 46
+23:27:13.341591 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [P.], seq 1785:1831, ack 3017, win 315, options [nop,nop,TS val 459587380 ecr 2081332329], length 46
+23:27:13.343500 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [.], ack 3063, win 315, options [nop,nop,TS val 459587382 ecr 2081391005], length 0
+23:27:31.491516 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 33726:34368, ack 2469629, win 4840, options [nop,nop,TS val 2508826287 ecr 100853639], length 642
+23:27:31.491581 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 34368:34539, ack 2469629, win 4840, options [nop,nop,TS val 2508826287 ecr 100853639], length 171
+23:27:31.949343 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2470694, win 4840, options [nop,nop,TS val 2508826745 ecr 100882213], length 0
+23:27:31.957047 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2470824, win 4840, options [nop,nop,TS val 2508826752 ecr 100882221], length 0
+23:27:31.957099 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 34539:34585, ack 2470824, win 4840, options [nop,nop,TS val 2508826752 ecr 100882221], length 46
+23:27:32.019264 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 34585:34876, ack 2470824, win 4840, options [nop,nop,TS val 2508826815 ecr 100882223], length 291
+23:27:32.019317 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 34876:35016, ack 2470824, win 4840, options [nop,nop,TS val 2508826815 ecr 100882223], length 140
+23:27:32.019351 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 35016:35218, ack 2470824, win 4840, options [nop,nop,TS val 2508826815 ecr 100882223], length 202
+23:27:32.266420 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2471602, win 4840, options [nop,nop,TS val 2508827062 ecr 100882530], length 0
+23:27:32.272073 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2471917, win 4840, options [nop,nop,TS val 2508827067 ecr 100882536], length 0
+23:27:32.272111 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 35218:35264, ack 2471917, win 4840, options [nop,nop,TS val 2508827067 ecr 100882536], length 46
+23:27:36.743479 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 35264:36250, ack 2471917, win 4840, options [nop,nop,TS val 2508831539 ecr 100882538], length 986
+23:27:36.743588 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 36250:36307, ack 2471917, win 4840, options [nop,nop,TS val 2508831539 ecr 100882538], length 57
+23:27:37.164237 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2473048, win 4840, options [nop,nop,TS val 2508831959 ecr 100887428], length 0
+23:27:37.170097 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2473341, win 4840, options [nop,nop,TS val 2508831965 ecr 100887434], length 0
+23:27:37.170148 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 36307:36353, ack 2473341, win 4840, options [nop,nop,TS val 2508831966 ecr 100887434], length 46
+23:27:40.368019 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 36353:37259, ack 2473341, win 4840, options [nop,nop,TS val 2508835163 ecr 100887436], length 906
+23:27:40.368064 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 37259:37355, ack 2473341, win 4840, options [nop,nop,TS val 2508835163 ecr 100887436], length 96
+23:27:40.619723 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2474335, win 4840, options [nop,nop,TS val 2508835415 ecr 100890884], length 0
+23:27:40.626281 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2474593, win 4840, options [nop,nop,TS val 2508835422 ecr 100890890], length 0
+23:27:40.626315 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 37355:37401, ack 2474593, win 4840, options [nop,nop,TS val 2508835422 ecr 100890890], length 46
+23:27:40.629923 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 37401:37812, ack 2474593, win 4840, options [nop,nop,TS val 2508835425 ecr 100890893], length 411
+23:27:40.629974 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 37812:37850, ack 2474593, win 4840, options [nop,nop,TS val 2508835425 ecr 100890893], length 38
+23:27:41.294735 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2476180, win 4840, options [nop,nop,TS val 2508836090 ecr 100891559], length 0
+23:27:41.294750 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2478916, win 4840, options [nop,nop,TS val 2508836090 ecr 100891559], length 0
+23:27:41.296725 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2480474, win 4840, options [nop,nop,TS val 2508836092 ecr 100891559], length 0
+23:27:41.296743 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2483210, win 4840, options [nop,nop,TS val 2508836092 ecr 100891561], length 0
+23:27:41.296895 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2487498, win 4840, options [nop,nop,TS val 2508836092 ecr 100891561], length 0
+23:27:41.297382 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2487893, win 4840, options [nop,nop,TS val 2508836093 ecr 100891561], length 0
+23:27:41.305172 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2490629, win 4840, options [nop,nop,TS val 2508836101 ecr 100891569], length 0
+23:27:41.305193 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2492323, win 4840, options [nop,nop,TS val 2508836101 ecr 100891569], length 0
+23:27:41.305206 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2496427, win 4840, options [nop,nop,TS val 2508836101 ecr 100891569], length 0
+23:27:41.305761 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2497965, win 4840, options [nop,nop,TS val 2508836101 ecr 100891569], length 0
+23:27:41.305777 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2500701, win 4840, options [nop,nop,TS val 2508836101 ecr 100891570], length 0
+23:27:41.306348 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2502396, win 4840, options [nop,nop,TS val 2508836102 ecr 100891570], length 0
+23:27:41.306365 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2505132, win 4840, options [nop,nop,TS val 2508836102 ecr 100891570], length 0
+23:27:41.306773 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2506047, win 4840, options [nop,nop,TS val 2508836102 ecr 100891570], length 0
+23:27:41.306891 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 37850:37896, ack 2506093, win 4840, options [nop,nop,TS val 2508836102 ecr 100891571], length 46
+23:27:41.350770 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 37896:38188, ack 2506093, win 4840, options [nop,nop,TS val 2508836146 ecr 100891573], length 292
+23:27:41.350821 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 38188:38327, ack 2506093, win 4840, options [nop,nop,TS val 2508836146 ecr 100891573], length 139
+23:27:41.350894 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 38327:38601, ack 2506093, win 4840, options [nop,nop,TS val 2508836146 ecr 100891573], length 274
+23:27:41.599637 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2507072, win 4840, options [nop,nop,TS val 2508836395 ecr 100891863], length 0
+23:27:41.606632 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2507241, win 4840, options [nop,nop,TS val 2508836402 ecr 100891871], length 0
+23:27:41.606683 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 38601:38647, ack 2507241, win 4840, options [nop,nop,TS val 2508836402 ecr 100891871], length 46
+23:27:41.613926 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 38647:38969, ack 2507241, win 4840, options [nop,nop,TS val 2508836409 ecr 100891873], length 322
+23:27:41.614065 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 38969:39007, ack 2507241, win 4840, options [nop,nop,TS val 2508836409 ecr 100891873], length 38
+23:27:41.953778 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2508827, win 4840, options [nop,nop,TS val 2508836749 ecr 100892217], length 0
+23:27:41.953800 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2511563, win 4840, options [nop,nop,TS val 2508836749 ecr 100892217], length 0
+23:27:41.954564 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2513330, win 4840, options [nop,nop,TS val 2508836750 ecr 100892217], length 0
+23:27:41.954595 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2515679, win 4840, options [nop,nop,TS val 2508836750 ecr 100892219], length 0
+23:27:41.957562 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2515850, win 4840, options [nop,nop,TS val 2508836753 ecr 100892221], length 0
+23:27:41.957613 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 39007:39053, ack 2515850, win 4840, options [nop,nop,TS val 2508836753 ecr 100892221], length 46
+23:28:07.514801 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [P.], seq 1831:1877, ack 3063, win 315, options [nop,nop,TS val 459641553 ecr 2081391005], length 46
+23:28:07.515075 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [P.], seq 1877:1908, ack 3063, win 315, options [nop,nop,TS val 459641553 ecr 2081391005], length 31
+23:28:07.515091 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [F.], seq 1908, ack 3063, win 315, options [nop,nop,TS val 459641553 ecr 2081391005], length 0
+23:28:07.517359 IP soccf-snr6-009.d2.comp.nus.edu.sg.41306 > 74.125.24.18.https: Flags [.], ack 3064, win 315, options [nop,nop,TS val 459641556 ecr 2081445179], length 0
+23:28:07.669024 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 39053:39761, ack 2515850, win 4840, options [nop,nop,TS val 2508862464 ecr 100892224], length 708
+23:28:07.669115 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 39761:39799, ack 2515850, win 4840, options [nop,nop,TS val 2508862464 ecr 100892224], length 38
+23:28:08.072026 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2517436, win 4840, options [nop,nop,TS val 2508862867 ecr 100918336], length 0
+23:28:08.078068 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2518272, win 4840, options [nop,nop,TS val 2508862873 ecr 100918336], length 0
+23:28:08.078229 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 39799:39845, ack 2518318, win 4840, options [nop,nop,TS val 2508862874 ecr 100918342], length 46
+23:28:08.124128 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 39845:40204, ack 2518318, win 4840, options [nop,nop,TS val 2508862919 ecr 100918345], length 359
+23:28:08.383597 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2519795, win 4840, options [nop,nop,TS val 2508863179 ecr 100918648], length 0
+23:28:08.383785 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2523899, win 4840, options [nop,nop,TS val 2508863179 ecr 100918648], length 0
+23:28:08.383796 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2526635, win 4840, options [nop,nop,TS val 2508863179 ecr 100918648], length 0
+23:28:08.383835 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2530739, win 4840, options [nop,nop,TS val 2508863179 ecr 100918648], length 0
+23:28:08.383879 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2533475, win 4840, options [nop,nop,TS val 2508863179 ecr 100918648], length 0
+23:28:08.383890 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2537579, win 4840, options [nop,nop,TS val 2508863179 ecr 100918648], length 0
+23:28:08.383960 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2543051, win 4812, options [nop,nop,TS val 2508863179 ecr 100918648], length 0
+23:28:08.383995 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2548523, win 4782, options [nop,nop,TS val 2508863179 ecr 100918648], length 0
+23:28:08.384043 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2551217, win 4767, options [nop,nop,TS val 2508863179 ecr 100918648], length 0
+23:28:08.384797 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2555321, win 4840, options [nop,nop,TS val 2508863180 ecr 100918648], length 0
+23:28:08.384809 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2558057, win 4840, options [nop,nop,TS val 2508863180 ecr 100918648], length 0
+23:28:08.384842 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2560793, win 4840, options [nop,nop,TS val 2508863180 ecr 100918648], length 0
+23:28:08.384982 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2564897, win 4840, options [nop,nop,TS val 2508863180 ecr 100918648], length 0
+23:28:08.385027 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2570369, win 4840, options [nop,nop,TS val 2508863180 ecr 100918648], length 0
+23:28:08.385093 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2573105, win 4838, options [nop,nop,TS val 2508863180 ecr 100918648], length 0
+23:28:08.385810 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2581313, win 4840, options [nop,nop,TS val 2508863181 ecr 100918648], length 0
+23:28:08.385852 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2586785, win 4840, options [nop,nop,TS val 2508863181 ecr 100918648], length 0
+23:28:08.385899 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2592257, win 4840, options [nop,nop,TS val 2508863181 ecr 100918648], length 0
+23:28:08.385962 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2599097, win 4815, options [nop,nop,TS val 2508863181 ecr 100918648], length 0
+23:28:08.386899 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2607972, win 4840, options [nop,nop,TS val 2508863182 ecr 100918648], length 0
+23:28:08.386954 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2616180, win 4840, options [nop,nop,TS val 2508863182 ecr 100918649], length 0
+23:28:08.387010 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2621652, win 4830, options [nop,nop,TS val 2508863182 ecr 100918649], length 0
+23:28:08.388118 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2625756, win 4840, options [nop,nop,TS val 2508863183 ecr 100918649], length 0
+23:28:08.388254 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2629860, win 4840, options [nop,nop,TS val 2508863184 ecr 100918651], length 0
+23:28:08.388301 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2635332, win 4840, options [nop,nop,TS val 2508863184 ecr 100918651], length 0
+23:28:08.388361 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2640804, win 4840, options [nop,nop,TS val 2508863184 ecr 100918651], length 0
+23:28:08.389104 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2649012, win 4840, options [nop,nop,TS val 2508863184 ecr 100918651], length 0
+23:28:08.389163 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2651748, win 4840, options [nop,nop,TS val 2508863185 ecr 100918651], length 0
+23:28:08.389267 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2657220, win 4840, options [nop,nop,TS val 2508863185 ecr 100918651], length 0
+23:28:08.389826 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2662198, win 4840, options [nop,nop,TS val 2508863185 ecr 100918652], length 0
+23:28:08.390211 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 40204:40250, ack 2662198, win 4840, options [nop,nop,TS val 2508863186 ecr 100918652], length 46
+23:28:08.560455 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 40250:40542, ack 2662198, win 4840, options [nop,nop,TS val 2508863356 ecr 100918657], length 292
+23:28:08.835342 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2663675, win 4840, options [nop,nop,TS val 2508863631 ecr 100919099], length 0
+23:28:08.835366 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2667779, win 4840, options [nop,nop,TS val 2508863631 ecr 100919099], length 0
+23:28:08.835380 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2673251, win 4840, options [nop,nop,TS val 2508863631 ecr 100919099], length 0
+23:28:08.835423 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2677355, win 4840, options [nop,nop,TS val 2508863631 ecr 100919099], length 0
+23:28:08.835431 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2680091, win 4840, options [nop,nop,TS val 2508863631 ecr 100919099], length 0
+23:28:08.836027 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2692403, win 4840, options [nop,nop,TS val 2508863631 ecr 100919099], length 0
+23:28:08.836045 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2695099, win 4840, options [nop,nop,TS val 2508863631 ecr 100919099], length 0
+23:28:08.836059 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2697835, win 4840, options [nop,nop,TS val 2508863631 ecr 100919099], length 0
+23:28:08.836345 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2701939, win 4840, options [nop,nop,TS val 2508863632 ecr 100919099], length 0
+23:28:08.836865 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2704675, win 4840, options [nop,nop,TS val 2508863632 ecr 100919099], length 0
+23:28:08.836893 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2716987, win 4840, options [nop,nop,TS val 2508863632 ecr 100919099], length 0
+23:28:08.837993 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2719723, win 4840, options [nop,nop,TS val 2508863633 ecr 100919099], length 0
+23:28:08.838018 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2732035, win 4840, options [nop,nop,TS val 2508863633 ecr 100919100], length 0
+23:28:08.839239 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2748451, win 4840, options [nop,nop,TS val 2508863635 ecr 100919100], length 0
+23:28:08.840047 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2763499, win 4840, options [nop,nop,TS val 2508863635 ecr 100919100], length 0
+23:28:08.841038 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2784019, win 4840, options [nop,nop,TS val 2508863636 ecr 100919102], length 0
+23:28:08.841885 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2788123, win 4840, options [nop,nop,TS val 2508863637 ecr 100919102], length 0
+23:28:08.841907 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2797699, win 4840, options [nop,nop,TS val 2508863637 ecr 100919103], length 0
+23:28:08.843045 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2806037, win 4840, options [nop,nop,TS val 2508863638 ecr 100919103], length 0
+23:28:08.843316 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 40542:40588, ack 2806037, win 4840, options [nop,nop,TS val 2508863639 ecr 100919103], length 46
+23:28:08.848212 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 40588:40880, ack 2806037, win 4840, options [nop,nop,TS val 2508863644 ecr 100919110], length 292
+23:28:09.103223 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2807506, win 4840, options [nop,nop,TS val 2508863899 ecr 100919367], length 0
+23:28:09.103418 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2811610, win 4840, options [nop,nop,TS val 2508863899 ecr 100919367], length 0
+23:28:09.103462 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2817082, win 4840, options [nop,nop,TS val 2508863899 ecr 100919367], length 0
+23:28:09.103774 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2819818, win 4840, options [nop,nop,TS val 2508863899 ecr 100919367], length 0
+23:28:09.103791 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2822554, win 4840, options [nop,nop,TS val 2508863899 ecr 100919367], length 0
+23:28:09.103826 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2826658, win 4840, options [nop,nop,TS val 2508863899 ecr 100919367], length 0
+23:28:09.103876 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2832130, win 4840, options [nop,nop,TS val 2508863899 ecr 100919367], length 0
+23:28:09.103921 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2834866, win 4840, options [nop,nop,TS val 2508863899 ecr 100919367], length 0
+23:28:09.104107 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2837602, win 4838, options [nop,nop,TS val 2508863899 ecr 100919367], length 0
+23:28:09.104663 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2843034, win 4840, options [nop,nop,TS val 2508863900 ecr 100919367], length 0
+23:28:09.104684 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2847138, win 4840, options [nop,nop,TS val 2508863900 ecr 100919368], length 0
+23:28:09.104703 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2849874, win 4840, options [nop,nop,TS val 2508863900 ecr 100919368], length 0
+23:28:09.104765 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2852610, win 4840, options [nop,nop,TS val 2508863900 ecr 100919368], length 0
+23:28:09.105824 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2856714, win 4840, options [nop,nop,TS val 2508863901 ecr 100919368], length 0
+23:28:09.105870 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2862186, win 4840, options [nop,nop,TS val 2508863901 ecr 100919368], length 0
+23:28:09.105918 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2869026, win 4840, options [nop,nop,TS val 2508863901 ecr 100919368], length 0
+23:28:09.105991 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2873484, win 4830, options [nop,nop,TS val 2508863901 ecr 100919368], length 0
+23:28:09.106804 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2877588, win 4840, options [nop,nop,TS val 2508863902 ecr 100919368], length 0
+23:28:09.106852 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2883060, win 4840, options [nop,nop,TS val 2508863902 ecr 100919368], length 0
+23:28:09.106902 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2889900, win 4840, options [nop,nop,TS val 2508863902 ecr 100919368], length 0
+23:28:09.107705 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2895372, win 4840, options [nop,nop,TS val 2508863903 ecr 100919368], length 0
+23:28:09.107729 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2902212, win 4840, options [nop,nop,TS val 2508863903 ecr 100919369], length 0
+23:28:09.108877 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2909052, win 4840, options [nop,nop,TS val 2508863904 ecr 100919369], length 0
+23:28:09.108909 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2914524, win 4840, options [nop,nop,TS val 2508863904 ecr 100919370], length 0
+23:28:09.110064 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2933676, win 4840, options [nop,nop,TS val 2508863905 ecr 100919370], length 0
+23:28:09.110130 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2940516, win 4807, options [nop,nop,TS val 2508863905 ecr 100919372], length 0
+23:28:09.111044 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [.], ack 2949910, win 4840, options [nop,nop,TS val 2508863906 ecr 100919372], length 0
+23:28:09.111329 IP soccf-snr6-009.d2.comp.nus.edu.sg.55668 > 74.125.24.17.https: Flags [P.], seq 40880:40926, ack 2949910, win 4840, options [nop,nop,TS val 2508863907 ecr 100919372], length 46

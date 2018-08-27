@@ -1,0 +1,14 @@
+21:41:24.952219 IP r-39-98-25-172.comp.nus.edu.sg.49808 > 192.229.189.142.https: Flags [.], ack 55046, win 1342, length 0
+21:41:25.178183 IP 192.229.189.142.https > r-39-98-25-172.comp.nus.edu.sg.49812: Flags [P.], seq 332108:332650, ack 39545, win 363, length 542
+21:41:25.178213 IP r-39-98-25-172.comp.nus.edu.sg.49812 > 192.229.189.142.https: Flags [.], ack 332650, win 4522, length 0
+21:41:25.179211 IP 192.229.189.142.https > r-39-98-25-172.comp.nus.edu.sg.49812: Flags [.], seq 332650:334030, ack 39545, win 363, length 1380
+21:41:25.179230 IP r-39-98-25-172.comp.nus.edu.sg.49812 > 192.229.189.142.https: Flags [.], ack 334030, win 4522, length 0
+21:41:25.179263 IP 192.229.189.142.https > r-39-98-25-172.comp.nus.edu.sg.49812: Flags [.], seq 334030:335410, ack 39545, win 363, length 1380
+21:41:25.179273 IP r-39-98-25-172.comp.nus.edu.sg.49812 > 192.229.189.142.https: Flags [.], ack 335410, win 4522, length 0
+21:41:25.179284 IP 192.229.189.142.https > r-39-98-25-172.comp.nus.edu.sg.49812: Flags [.], seq 335410:336790, ack 39545, win 363, length 1380
+21:41:25.179290 IP r-39-98-25-172.comp.nus.edu.sg.49812 > 192.229.189.142.https: Flags [.], ack 336790, win 4522, length 0
+21:41:25.179299 IP 192.229.189.142.https > r-39-98-25-172.comp.nus.edu.sg.49812: Flags [.], seq 336790:338170, ack 39545, win 363, length 1380
+21:41:25.179304 IP r-39-98-25-172.comp.nus.edu.sg.49812 > 192.229.189.142.https: Flags [.], ack 338170, win 4522, length 0
+21:41:25.179314 IP 192.229.189.142.https > r-39-98-25-172.comp.nus.edu.sg.49812: Flags [P.], seq 338170:338412, ack 39545, win 363, length 242
+21:41:25.179319 IP r-39-98-25-172.comp.nus.edu.sg.49812 > 192.229.189.142.https: Flags [.], ack 338412, win 4522, length 0
+
